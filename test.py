@@ -3,7 +3,7 @@ from nltk.stem.wordnet import WordNetLemmatizer
 from difflib import SequenceMatcher
 from nltk.tokenize import RegexpTokenizer
 import copy
-
+	
 vocabulary = ["pertain","more","fetch","be","there","do","you","have","any","is","my","on","can","i","get","some","am","look","for","the","to","share","me","of","please","a","very","at","with","relate","sorry","informatica","ab initio","talend","etl","dwt","dwh","rfp","tableu""case","study","video","doccument","link","artefact"]
 
 
