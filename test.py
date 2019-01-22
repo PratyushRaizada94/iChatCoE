@@ -1,72 +1,193 @@
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
+
 import nltk
-from nltk.stem.wordnet import WordNetLemmatizer 
+from nltk.stem.wordnet import WordNetLemmatizer
 from difflib import SequenceMatcher
 from nltk.tokenize import RegexpTokenizer
 import copy
-	
-vocabulary = ["pertain","more","fetch","be","there","do","you","have","any","is","my","on","can","i","get","some","am","look","for","the","to","share","me","of","please","a","very","at","with","relate","sorry","informatica","ab initio","talend","etl","dwt","dwh","rfp","tableu""case","study","video","doccument","link","artefact"]
+
+vocabulary = [
+    'pertain',
+    'more',
+    'fetch',
+    'be',
+    'there',
+    'do',
+    'you',
+    'have',
+    'any',
+    'is',
+    'my',
+    'on',
+    'can',
+    'i',
+    'get',
+    'some',
+    'am',
+    'look',
+    'for',
+    'the',
+    'to',
+    'share',
+    'me',
+    'of',
+    'please',
+    'a',
+    'very',
+    'at',
+    'with',
+    'relate',
+    'sorry',
+    'informatica',
+    'ab initio',
+    'talend',
+    'etl',
+    'dwt',
+    'dwh',
+    'rfp',
+    'tableu',
+    'case',
+    'study',
+    'video',
+    'doccument',
+    'link',
+    'artefact',
+    ]
 
 
 def lemmatize(text):
     """Function to lemmatize a text string. 
     Lemmatizing is the process of removing 'ing', 'ly', 'es' etc. suffixes from the test string """
+
     lem = WordNetLemmatizer()
-    return(" ".join(list(map(lambda x :lem.lemmatize(x, "v"),text.split()))))
+    return ' '.join(list(map(lambda x: lem.lemmatize(x, 'v'),
+                    text.split())))
+
 
 def check_spellings(text):
     """Function to check for typos in the text string.
     It corrects the spelling if it finds some spelling matching to 85% of the lexicon used in the vocabulary"""
+
     for word in vocabulary:
-	text = correct(word,text,0.85)
+        text = correct(word, text, 0.85)
     return text
+
 
 def correct(search_key, text, strictness):
     """This function corrects the spelling in case there is a typo resembling to 85% of the spelling of the matching word"""
+
     text_copy = copy.deepcopy(text)
     words = text.split()
     for word in words:
-    	similarity = SequenceMatcher(None, word, search_key)
+        similarity = SequenceMatcher(None, word, search_key)
         if similarity.ratio() > strictness:
-    	    text_copy = text_copy.replace(word,search_key)
+            text_copy = text_copy.replace(word, search_key)
     return text_copy
+
 
 def remove_noise(text):
     """This function is used to filter out the words that are noises and do not convey any important message"""
+
     text = text.split()
-    word = [word for word in text if word not in ["pertain","more","fetch","be","there","do","you","have","any","is","my","on","can","i","get","some","am","look","for","the","to","share","me","of","please","a","very","at","with","relate","sorry"]]
-    return " ".join(word)
+    word = [word for word in text if word not in [
+        'pertain',
+        'estimate',
+        'link',
+        'and',
+        'more',
+        'fetch',
+        'be',
+        'there',
+        'do',
+        'you',
+        'have',
+        'any',
+        'is',
+        'my',
+        'on',
+        'can',
+        'i',
+        'get',
+        'some',
+        'am',
+        'look',
+        'for',
+        'the',
+        'to',
+        'share',
+        'me',
+        'of',
+        'please',
+        'a',
+        'very',
+        'at',
+        'with',
+        'relate',
+        'sorry',
+        ]]
+    return ' '.join(word)
+
 
 def standardize(text):
-	lookup_dict = {'rt':'Retweet', 'dm':'direct message', "awsm" : "awesome", "luv" :"love", "doc":"document", "lvl":"level", "plz":"please","pls":"please","info":"information","u":"you","sry":"sorry"}
-	new_words = []
-	for word in text.split():
-		if word in lookup_dict:
-			new_words.append(lookup_dict[word])
-			continue
-		new_words.append(word)
-	return " ".join(new_words)
+    lookup_dict = {
+        'rt': 'Retweet',
+        'dm': 'direct message',
+        'awsm': 'awesome',
+        'luv': 'love',
+        'doc': 'document',
+        'lvl': 'level',
+        'plz': 'please',
+        'pls': 'please',
+        'info': 'information',
+        'u': 'you',
+        'sry': 'sorry',
+        }
+    new_words = []
+    for word in text.split():
+        if word in lookup_dict:
+            new_words.append(lookup_dict[word])
+            continue
+        new_words.append(word)
+    return ' '.join(new_words)
+
+
 def prepare_utterance(utterace):
     """Function to prepare the utterance to a standard text string
     1. Creates deep copy of utterance
+    2. Trims the string
     2. Converts text to lower string
     3. Removes punctuations for the text"""
-    text = copy.deepcopy(line).lower()
+
+    text = copy.deepcopy(line).strip().lower()
     tokenizer = RegexpTokenizer(r'\w+')
-    text = " ".join(tokenizer.tokenize(text))
-    return(text)
-    
+    text = ' '.join(tokenizer.tokenize(text))
+    return text
 
-with open("data.txt") as f:
-	for line in f:
-		text = prepare_utterance(line)
-		#standardize the text meassage
-		text = standardize(text)
-		#Correct the sentence for typos
-		text = check_spellings(text)
-		#Lemmatize the text
-		text = lemmatize(text)
-		#Remove noisy words
-		text = remove_noise(text)
-		#print(line.strip()+" ---------- "+    remove_noise(    lemmatize(   standardize(line.strip().lower())    )    )    )
-		print(line+"\t\t"+text)
 
+with open('data.txt') as f:
+    for line in f:
+        text = prepare_utterance(line)
+
+        # standardize the text meassage
+
+        text = standardize(text)
+
+        # Correct the sentence for typos
+
+        text = check_spellings(text)
+
+        # Lemmatize the text
+
+        text = lemmatize(text)
+
+        # Remove noisy words
+
+        text = remove_noise(text)
+
+        # print(line.strip()+" ---------- "+    remove_noise(    lemmatize(   standardize(line.strip().lower())    )    )    )
+
+        print (line.strip() + '\t\t\t\t' + text)
+
+
+            
