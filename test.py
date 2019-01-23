@@ -6,7 +6,10 @@ from nltk.stem.wordnet import WordNetLemmatizer
 from difflib import SequenceMatcher
 from nltk.tokenize import RegexpTokenizer
 import copy
+import random
 
+
+#FIX-ME update vocabulary with the word
 vocabulary = [
     'pertain',
     'more',
@@ -142,6 +145,7 @@ def standardize(text):
         'info': 'information',
         'u': 'you',
         'sry': 'sorry',
+        'gr8': 'great'
         }
     new_words = []
     for word in text.split():
@@ -162,9 +166,89 @@ def prepare_utterance(utterace):
     text = copy.deepcopy(line).strip().lower()
     tokenizer = RegexpTokenizer(r'\w+')
     text = ' '.join(tokenizer.tokenize(text))
+    text = standardize(text)
+    text = check_spellings(text)
+    text = lemmatize(text)
     return text
 
 
+def listen():
+    utterance = input()
+    return (utterance)
+
+
+def prepare_reply():
+    pass
+
+
+
+def entities_found():
+    return True
+
+
+def confirmed(utterance):
+    return True
+
+
+def fetch_links(entities):
+    return ["www.google.com"]
+
+
+def show_what_found(links):
+    print(links)
+
+
+def clear_entity():
+    pass
+
+
+def discover_entities():
+    pass
+
+
+def apologize():
+    print("Sorry I do not understand this. Please elaborate")
+
+
+def get_bussiness_utterance():
+    #check if the utterance is not casual
+
+    utterance = listen()
+    while casual_utterance(utterance):
+        utterance = listen()
+    return utterance
+
+
+def casual_utterance(sentence):
+    '''If utterance is casual reply back accordingly'''
+
+    GREETING_INPUTS = ("hello", "hi", "greetings","hey")
+    GREETING_RESPONSES = ["hi", "hey", "*nods*", "hi there", "hello", "I am glad! You are talking to me"]
+    for word in sentence.split():
+        if word.lower() in GREETING_INPUTS:
+            print(random.choice(GREETING_RESPONSES))
+            print("Hi user, What would you like me to find for you?")
+            return True
+
+
+    WORKQUES_INPUTS = ("sup","sup?", "what's up")
+    WORKQUES_RESPONSES = ["Not much"]
+    for word in sentence.split():
+        if word.lower() in WORKQUES_INPUTS:
+            print(random.choice(WORKQUES_RESPONSES))
+            print("Just looking up some documents for curious souls :)")
+            return True
+
+
+    THANK_INPUTS = ("thanks", "that's great", "that was helpful")
+    THANK_RESPONSES = ["you are welcome", "happy to help :D"]
+    for word in sentence.split():
+        if word.lower() in THANK_INPUTS:
+            print (random.choice(THANK_RESPONSES))
+            return True
+
+
+'''
 with open('data.txt') as f:
     for line in f:
         text = prepare_utterance(line)
@@ -188,6 +272,37 @@ with open('data.txt') as f:
         # print(line.strip()+" ---------- "+    remove_noise(    lemmatize(   standardize(line.strip().lower())    )    )    )
 
         print (line.strip() + '\t\t\t\t' + text)
+'''
+
+if __name__ == '__main__':
+
+    patience = 4
+    entities = []
+
+    print("Hi user!")
+    while True:
+        if patience > 0:
+            #if utterance is query?
+            utterance =  get_bussiness_utterance()
+            if entities_found():
+                reply = prepare_reply()
+                print(reply)
+                utterance = listen()
+                if confirmed(utterance):
+                    links = fetch_links(entities)
+                    show_what_found(links)
+                else:
+                    clear_entity()
+                    patience = patience - 1
+
+        else:
+            apologize()
+            links = fetch_links(entities)
+            show_what_found(links)            
+            clear_entity()
+            patience = 4
 
 
-            
+
+
+
