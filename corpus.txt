@@ -1,0 +1,108 @@
+Best Practices,DW-BI Testing Best_Practices.
+Case Studies,BI case study,Bi Case study Detail,BO to BO_upgrade_Case Study.
+Case Studies,BI case study,Bi Case study Detail,Cenovus_BO to BO_upgrade_Case Study_v1.0Case Study.
+Case Studies,BI case study,Bi Case study Detail,Qlikview Report Testing_Case study.
+Case Studies,BI case study,Bi Case study Detail,SSRS Reports Testing_Case Study.
+Case Studies,BI case study,Bi Case study Detail,Weatherford_OBIEEReportsTesting_Case Study.
+Case Studies,BI case study,BI Case study_ single slide,BO to BO_upgrade_Case Study.
+Case Studies,BI case study,BI Case study_ single slide,BOXI Report Testing_Case study.
+Case Studies,BI case study,BI Case study_ single slide,Cenovus_BO to BO_upgrade_Case Study.
+Case Studies,BI case study,BI Case study_ single slide,Management Report and analytics Case study.
+Case Studies,BI case study,BI Case study_ single slide,Mcdermott _Cube_Case Study.
+Case Studies,BI case study,BI Case study_ single slide,Micro startegyReports Testing_Case Study.
+Case Studies,BI case study,BI Case study_ single slide,OBIEE Report Testing_Case study.
+Case Studies,BI case study,BI Case study_ single slide,Qlikview Report Testing_Case study.
+Case Studies,BI case study,BI Case study_ single slide,SSRS Reports Testing_Case Study.
+Case Studies,BI case study,BI Case study_ single slide,Tableau Report Testing_Case Study.
+Case Studies,BI case study,BI Case study_ single slide,Weatherford_OBIEEReportTesting.
+Case Studies,By Technology,Ab Initio,Energy Communication and Services-.
+Case Studies,By Technology,Ab Initio,Financial Services,Citi Genesis Ab Initio Study V1 0.
+Case Studies,By Technology,Ab Initio,Health Care Insurances and Lifesciences-.
+Case Studies,By Technology,Ab Initio,Manufacturing-.
+Case Studies,By Technology,Ab Initio,Retail-.
+Case Studies,By Technology,Business Objects,Energy Communication and Services-.
+Case Studies,By Technology,Business Objects,Financial Services,BO Reports for a leading bank in US.
+Case Studies,By Technology,Business Objects,Health Care Insurance and Life sciences.
+Case Studies,By Technology,Business Objects,Manufacturing-.
+Case Studies,By Technology,Business Objects,Retail.
+Case Studies,By Technology,Cognos Reports,Energy Communication and Services-.
+Case Studies,By Technology,Cognos Reports,Financial Services,Cognos Reports testing in Agile Model.
+Case Studies,By Technology,Cognos Reports,Health Care Insurance and Life sciences-.
+Case Studies,By Technology,Cognos Reports,Manufacturing-.
+Case Studies,By Technology,Cognos Reports,Retail-.
+Case Studies,By Technology,Data Stage,Energy Communication and Services,.
+Case Studies,By Technology,Data Stage,Financial Services,RBS Citizens_Datastage Upgrade_Case Study.
+Case Studies,By Technology,Data Stage,Health Care Insurance and Life sciences-.
+Case Studies,By Technology,Data Stage,Manufacturing-.
+Case Studies,By Technology,Data Stage,Retail,EDW_Case_Study_Draft.
+Case Studies,By Technology,Data Stage,Retail,GAP_ETL_DWH_CaseStudy.
+Case Studies,By Technology,Informatica,Energy Communication and Services-.
+Case Studies,By Technology,Informatica,Financial Services,CGC IDW ST Case Study V1 0.
+Case Studies,By Technology,Informatica,Financial Services,CGC_FIBI_Case Study.
+Case Studies,By Technology,Informatica,Financial Services,ETL Testing using Informatica for a UK based client.
+Case Studies,By Technology,Informatica,Financial Services,ETL Testing using Informatica for cloud storage.
+Case Studies,By Technology,Informatica,Financial Services,ETL Testing using Informatica for online document storage platform.
+Case Studies,By Technology,Informatica,Financial Services,Informatica testing for Fidelity.
+Case Studies,By Technology,Informatica,Financial Services,Wells Fargo Case Study V0.1.
+Case Studies,By Technology,Informatica,Health Care Insurance and Life sciences,Amerprise Financial_ETL Testing _Case_Study V1 0.
+Case Studies,By Technology,Informatica,Manufacturing-.
+Case Studies,By Technology,Informatica,Retail-.
+Case Studies,By Technology,MDM,AHOLD_MDM Testing_Case Study_V1.0.
+Case Studies,By Technology,MDM,BNSF_CH_Case_Study_v1.0.
+Case Studies,By Technology,MDM,Mcdermott_MDM_Case_Study_V1.0.
+Case Studies,By Technology,MDM,Nordstrom_EPM_Case_Study_v1.0.
+Case Studies,By Technology,MDM,RB_MDM_RPF.
+Case Studies,By Technology,Netezza,Energy Communication and Services-.
+Case Studies,By Technology,Netezza,Financial Services-.
+Case Studies,By Technology,Netezza,Health Care Insurance and Life sciences-.
+Case Studies,By Technology,Netezza,Manufacturing-.
+Case Studies,By Technology,Netezza,Retail-.
+Case Studies,By Technology,OBIEE Reports,Energy Communication and Services-.
+Case Studies,By Technology,OBIEE Reports,Financial Services-.
+Case Studies,By Technology,OBIEE Reports,Health Care Insurance and Life sciences-.
+Case Studies,By Technology,OBIEE Reports,Manufacturing-.
+Case Studies,By Technology,OBIEE Reports,Retail-.
+Case Studies,By Technology,Teradata,Energy Communication and Services-.
+Case Studies,By Technology,Teradata,Financial Services,Teradata case study for FATCA conformance.
+Case Studies,By Technology,Teradata,Financial Services,Teradata testing services for decision platform using HASK KEY Mapping Logic.
+Case Studies,By Technology,Teradata,Health Care Insurance and Life sciences-.
+Case Studies,By Technology,Teradata,Manufacturing-.
+Case Studies,By Technology,Teradata,Retail-.
+Case Studies,By Vertical,Amerprise Financial_ETL Testing Informatica_Case_Study V1.0.
+Case Studies,By Vertical,BO Reports for a leading bank in US.
+Case Studies,By Vertical,CGC - Fixed Income Business Intelligence FIBI - ETL testing CAse Study.
+Case Studies,By Vertical,CGC_ETL Informatica.
+Case Studies,By Vertical,Citi FFS SIT Case Study V1.0.
+Case Studies,By Vertical,Citi Genesis Case Study V1.0.
+Case Studies,By Vertical,Citi USRRI Case Study V1 0.
+Case Studies,By Vertical,Cognos Reports testing in Agile Model.
+Case Studies,By Vertical,CRC_Case_StudyV1 0.
+Case Studies,By Vertical,ETL_Testing Barclays Cards - BAREDCS2.
+Case Studies,By Vertical,ETL_Testing Barclays Cards - BARMCCSZ.
+Case Studies,By Vertical,ETL_Testing Barclays Retail banking - BARS2STP.
+Case Studies,By Vertical,FS Client - KYC and AML Case Studies V1.0 02Mar17 BoFA and Citi.
+Case Studies,By Vertical,Informatica testing for Fidelity.
+Case Studies,By Vertical,NAB_GDW_FATCA_Casestudy.
+Case Studies,By Vertical,SunTrust_Case_StudyV1 1.
+Case Studies,By Vertical,Teradata case study for FATCA conformance.
+Case Studies,By Vertical,Teradata testing services for decision platform using HASK KEY Mapping Logic.
+Case Studies,Case In A Point,Business,CaseInAPoint_Banking Implementations.
+Case Studies,Case In A Point,Business,CaseInAPoint_ETL_HealthcareImplementations_v1.
+Case Studies,Case In A Point,Business,Healthcare_DW_Business_Cases.
+Case Studies,Case In A Point,Process,DW_Process_Cases.
+Case Studies,Case In A Point,Process,LACare_DWT_Analysis-Version 1.0.
+Case Studies,Case In A Point,Technical,CaseInAPoint_Banking Implementations.
+Case Studies,Case In A Point,Technical,Enhanced DQ Analysis through Reusable Abinitio Graphs.
+Case Studies,Case In A Point,Technical,ETL DevOps POC.
+Case Studies,Case In A Point,Technical,Healthcare_Insurance_ETL_Technical.
+Case Studies,Case In A Point,Technical,HILIFE_Innovation_DifferentiatorsInCI-CD Model.
+Case Studies,Case In A Point,Technical,Infosys ETL Test Factory.
+Case Studies,Case In A Point,Technical,Summary_CaseInAPoint_ETL_HealthcareImplementations.
+Case Studies,iDTW 6 Case Studies,Amfam_iDTW_CaseStudy.
+Case Studies,iDTW 6 Case Studies,Case Study - Automated Quality Assurance for Big Data in cloud.
+Case Studies,iDTW 6 Case Studies,Case Study of Data Extracts from Azure Platform Testing using IDTW (1).
+Case Studies,iDTW 6 Case Studies,Case Study of Data Migration to AWS Platform Testing using IDTW.
+Case Studies,iDTW 6 Case Studies,DTCC - IDTW Case Study.
+Case Studies,iDTW 6 Case Studies,IDTW Case Study.
+Case Studies,iDTW 6 Case Studies,Prime iDTW Implementation Story.
+Case Studies,iDTW 6 Case Studies,T-Mobile - IDW - CT - Presentation V7.

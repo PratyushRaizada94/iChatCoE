@@ -1,6 +1,7 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
-
+from tkinter import *
+from tkinter import messagebox
 import nltk
 from nltk.stem.wordnet import WordNetLemmatizer
 from difflib import SequenceMatcher
@@ -56,6 +57,8 @@ vocabulary = [
     'doccument',
     'link',
     'artefact',
+    'hello',
+    'hi'
     ]
 
 
@@ -73,7 +76,7 @@ def check_spellings(text):
     It corrects the spelling if it finds some spelling matching to 85% of the lexicon used in the vocabulary"""
 
     for word in vocabulary:
-        text = correct(word, text, 0.85)
+        text = correct(word, text, 0.7)
     return text
 
 
@@ -127,7 +130,7 @@ def remove_noise(text):
         'at',
         'with',
         'relate',
-        'sorry',
+        'sorry'
         ]]
     return ' '.join(word)
 
@@ -156,7 +159,7 @@ def standardize(text):
     return ' '.join(new_words)
 
 
-def prepare_utterance(utterace):
+def prepare_utterance(line):
     """Function to prepare the utterance to a standard text string
     1. Creates deep copy of utterance
     2. Trims the string
@@ -219,15 +222,17 @@ def get_bussiness_utterance():
     return utterance
 
 
-def casual_utterance(sentence):
+def casual_utterance(sentence,message,input_value):
     '''If utterance is casual reply back accordingly'''
 
     GREETING_INPUTS = ("hello", "hi", "greetings","hey")
     GREETING_RESPONSES = ["hi", "hey", "*nods*", "hi there", "hello", "I am glad! You are talking to me"]
     for word in sentence.split():
         if word.lower() in GREETING_INPUTS:
-            print(random.choice(GREETING_RESPONSES))
-            print("Hi user, What would you like me to find for you?")
+            #print(random.choice(GREETING_RESPONSES))
+            message.insert(INSERT,"Bot: "+random.choice(GREETING_RESPONSES)+"\n")
+            #print("Hi user, What can I find for you?")
+            message.insert(INSERT,"Bot: "+"Hi user, What can I find for you?"+"\n")
             return True
 
 
@@ -235,8 +240,10 @@ def casual_utterance(sentence):
     WORKQUES_RESPONSES = ["Not much"]
     for word in sentence.split():
         if word.lower() in WORKQUES_INPUTS:
-            print(random.choice(WORKQUES_RESPONSES))
-            print("Just looking up some documents for curious souls :)")
+            #print(random.choice(WORKQUES_RESPONSES))
+            message.insert(INSERT,"Bot: "+random.choice(WORKQUES_RESPONSES)+"\n")
+            #print("Just looking up some documents for curious souls :)")
+            message.insert(INSERT,"Bot: "+"Just looking up some documents for curious souls :)"+"\n")
             return True
 
 
@@ -244,8 +251,41 @@ def casual_utterance(sentence):
     THANK_RESPONSES = ["you are welcome", "happy to help :D"]
     for word in sentence.split():
         if word.lower() in THANK_INPUTS:
-            print (random.choice(THANK_RESPONSES))
+            #print (random.choice(THANK_RESPONSES))
+            message.insert(INSERT,"Bot: "+random.choice(THANK_RESPONSES)+"\n")
             return True
+    return False
+
+
+def on_closing():
+
+    if messagebox.askokcancel("Quit", "Do you want to quit?"):
+        GUI.destroy()
+
+def Enter_Hit(event):
+
+    utter=input_user.get()
+
+    utter = prepare_utterance(utter)
+    #print(utter)
+    message.config(state=NORMAL,fg="Blue")
+    message.insert(INSERT,"User: "+utter+"\n")
+    if casual_utterance(utter,message,input_value):
+        input_value.set("")
+        message.config(state=DISABLED)
+   #Handshake starts here
+'''
+    if (utter=="hi" or utter=="hello"):
+        reply="Hello"
+        message.insert(INSERT,"Bot: "+reply+"\n")
+        input_value.set("")
+        message.config(state=DISABLED)
+    else:
+        reply="Sorry, I did not understand what you just said."
+        message.insert(INSERT,"Bot: "+reply+"\n")
+        input_value.set("")
+        message.config(state=DISABLED)  
+'''                                                                                                        
 
 
 '''
@@ -279,7 +319,8 @@ if __name__ == '__main__':
     patience = 4
     entities = []
 
-    print("Hi user!")
+    print("Application starts...")
+    '''
     while True:
         if patience > 0:
             #if utterance is query?
@@ -301,6 +342,25 @@ if __name__ == '__main__':
             show_what_found(links)            
             clear_entity()
             patience = 4
+    '''
+    GUI=Tk()
+    GUI.title("Infosys Chatbot")
+    input_value=StringVar()
+    scrollbar = Scrollbar(GUI)
+    scrollbar.pack(side=RIGHT, fill=Y)
+    label1=Label(GUI,text="Welcome to Infosys Chatbot!",fg="Red")
+    label1.pack(side=TOP,fill=X)
+    message=Text(GUI)
+    message.pack()
+    message.config(state=DISABLED,yscrollcommand=scrollbar.set)
+    scrollbar.config(command=message.yview)
+    input_user=Entry(GUI,text=input_value)
+    user_label=Label(GUI,text="Enter message here:",fg="Red")
+    user_label.pack(fill=X)
+    input_user.pack(fill=X)
+    input_user.bind("<Return>", Enter_Hit)
+    GUI.protocol("WM_DELETE_WINDOW", on_closing)
+    GUI.mainloop()
 
 
 

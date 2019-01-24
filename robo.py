@@ -3,7 +3,7 @@ import numpy as np
 import random
 import string # to process standard python strings
 
-f=open('chatbot.txt','r')
+f=open('corpus.txt','r')
 raw=f.read()
 raw=raw.lower()# converts to lowercase
 
