@@ -1,0 +1,844 @@
+,text
+289,erp test service definition v7 course reference document erp test pdf
+290,fsi erp test faq v2 course reference document erp test pdf
+291,fsivs erp test capabilities v4 course reference document erp test pdf
+292,fsivs ssdu tdm capabilities overview course reference document tdm pdf
+293,fsivs ssdu tdm service definition and guide (2) course reference document tdm pdf
+294,infrastructure test capabilities course reference document infra test pdf
+295,ss service offer and differentiation infrastructure test course reference document infra test pdf
+296,infosys soa approach and benefit (2) course reference document soa test pdf
+297,infosys soa capabilities overview 3 1 course reference document soa test pdf
+298,dw bi test infosys capabilities course reference document dwt test pdf
+299,dw bi test service definition course reference document dwt test pdf
+300,infosys dw bi test faqs course reference document dwt test pdf
+301,fsiivs security test capabilities v1 0 course reference document security test pdf
+302,01 fsiivs ss du offer course reference document performance test pdf
+303,02 pt service definition and guide v1 course reference document performance test pdf
+304,03 pt capabilities v1 course reference document performance test pdf
+305,barclays infrastructure test case study course reference document infra test case study ppt
+306,fsiivs ssdu infra test coe projectcharter draft v1.1 course reference document infra test collaterals ppt
+307,coe infra test action tracker course reference document infra test infra tcoe tracker xls
+308,abnamro draft tech replatforming track test strategy v17 course reference document infra test rfps and support abn ppt
+309,infosys infrastructure test course reference document infra test rfps and support barclays zip
+310,infosys jll application migration response ims v1 3 connecitivity v1 course reference document infra test rfps and support jll doc
+311,infra test kit course reference document infra test collaterals zip
+312,test plan req analysis estimation templates estimation xls
+313,dw execution checklist templates checklists xls
+314,dw testconditions checklist templates checklists xls
+315,dw test case review checklist templates checklists xls
+316,dwt estimation templates estimation xls
+317,dwt replanning across phase templates estimation xls
+318,st scope effort estimation templates estimation xls
+319,dwt replanning estimate templates estimation xls
+320,status report wsr templates status report ppt
+321,test case generation tool and accelerators tool and macros xlsm
+322,test condition generator tool and accelerators tool and macros xlsm
+323,infosys capabilities in dwt 30to60mins collateral dw bi test pdf
+324,infosys capabilities in dwt 60to90mins collateral dw bi test pdf
+325,infosys capabilitues in dwt 15to30mins collateral dw bi test pdf
+326,test strategy templates test strategy doc
+327,sit test plan templates test plan doc
+328,sit traceability matrix templates traceability xls
+329,sit test closure report templates result report doc
+330,automatic database query executor tool and accelerators tool and macros zip
+331,query generator for ods temp table tool and accelerators tool and macros zip
+332,ab initio design graph for test data setup train material train materials dw bi tool etl abinitio ppt
+333,ab initio for test data setup train material train materials dw bi tool etl abinitio doc
+334,ab initio train train material train materials dw bi tool etl abinitio ppt
+335,45ca921 train material train materials dw bi tool etl informatica tmp
+336,etl test use informatica train material train materials dw bi tool etl informatica ppt
+337,f17125a0 train material train materials dw bi tool etl informatica tmp
+338,informatica train material train materials dw bi tool etl informatica ppt
+339,informatica train train material train materials dw bi tool etl informatica doc
+340,thumb train material train materials dw bi tool etl informatica db
+341,1. informatica pc 8 architecture train material train materials dw bi tool etl informatica informatica train material ppt
+342,2.1 informatica (during) train material train materials dw bi tool etl informatica informatica train material ppt
+343,2.2 informatica server architecture train material train materials dw bi tool etl informatica informatica train material ppt
+344,2.3 informatica client tool train material train materials dw bi tool etl informatica informatica train material ppt
+345,2.4 transformation 1 train material train materials dw bi tool etl informatica informatica train material ppt
+346,2.5 transformation 2 train material train materials dw bi tool etl informatica informatica train material ppt
+347,2.6 transformation 3 train material train materials dw bi tool etl informatica informatica train material ppt
+348,3.1 oltp (during) train material train materials dw bi tool etl informatica informatica train material ppt
+349,3.2 adv. infa workflow schedulingtask train material train materials dw bi tool etl informatica informatica train material ppt
+350,"3.3 scd type 1,2,3 (during) train material train materials dw bi tool etl informatica informatica train material ppt"
+351,3.4 scd train material train materials dw bi tool etl informatica informatica train material ppt
+352,4. informatica pc 7 vs pc 8 train material train materials dw bi tool etl informatica informatica train material ppt
+353,informatica new featueres train material train materials dw bi tool etl informatica informatica train material doc
+354,informatica train vinod train material train materials dw bi tool etl informatica informatica train material doc
+355,thumb train material train materials dw bi tool etl informatica informatica train material db
+356,2676c95c train material train materials dw bi tool bi bo test tmp
+357,551330fc train material train materials dw bi tool bi bo test tmp
+358,bi trainning train material train materials dw bi tool bi bo test ppt
+359,bo train complete with exercise train material train materials dw bi tool bi bo test ppt
+360,c019e4cd train material train materials dw bi tool bi bo test tmp
+361,f23ee1ad train material train materials dw bi tool bi bo test tmp
+362,thumb train material train materials dw bi tool bi bo test db
+363,cognnos analysis studio i train material train materials dw bi tool bi cognos ppt
+364,cognnos analysis studio ii train material train materials dw bi tool bi cognos ppt
+365,cognos connection train material train materials dw bi tool bi cognos ppt
+366,cognos end to end guide to report train material train materials dw bi tool bi cognos pdf
+367,cognos event studio train material train materials dw bi tool bi cognos ppt
+368,cognos introduction train material train materials dw bi tool bi cognos ppt
+369,cognos overview of report tool train material train materials dw bi tool bi cognos pdf
+370,cognos report studio train material train materials dw bi tool bi cognos ppt
+371,thumb train material train materials dw bi tool bi cognos db
+372,mstr train day 1 train material train materials dw bi tool bi microstrategy ppt
+373,mstr train day 2 train material train materials dw bi tool bi microstrategy ppt
+374,mstr train day 3 train material train materials dw bi tool bi microstrategy ppt
+375,mstr train day 4 train material train materials dw bi tool bi microstrategy ppt
+376,mstr train day 5(icube) train material train materials dw bi tool bi microstrategy ppt
+377,1 obiee overview train material train materials dw bi tool bi obiee ppt
+378,2 obiee answer and dashbaords train material train materials dw bi tool bi obiee ppt
+379,"answers, delivers, and interactive dashboards user guide train material train materials dw bi tool bi obiee pdf"
+380,obiee train plan train material train materials dw bi tool bi obiee xls
+381,thumb train material train materials dw bi tool bi obiee db
+382,a learners guide to data warehouse test touch point train material train materials dw bi test basics of dwt doc
+383,overview of data warehouse test train material train materials dw bi test basics of dwt doc
+384,ivs te year2 ppt vbscript train material train materials introduction to macros excel macros ppt
+385,data warehouse test approach and standards train material train materials dw bi test basics of dwt pdf
+386,weekly status report template templates status report ppt
+387,dw bi test infosys capabilities collateral dw bi test ppt
+388,dw bi test service definition collateral dw bi test ppt
+389,infosys dw bi test faqs v01 collateral dw bi test doc
+390,"infosys data test service fsivs fsivs dwt-bi,tdm,big data collateral dw bi test zip"
+391,estimation utility v1.2 templates estimation xltm
+392,fs ssdu service offer v2 feb15 collateral ppt
+393,comparsion of perfaware with industry tool tool and accelerators infosys accelarators infosys perfaware xls
+394,dw bi master defect repository v2 0 final tool and accelerators reusable artifacts xls
+395,reusable etl scenarios v 1 tool and accelerators reusable artifacts xls
+396,ssdu etl and data warehouse interview kit etl train material train materials dw bi test basics of dwt xls
+397,dw bi test best practice best practice xls
+398,infosys data warehouse test solution capability overview tool and accelerators infosys accelarators infosys perfaware ppt
+399,perfaware comparison with informatica dvo tool and accelerators infosys accelarators infosys perfaware ppt
+400,introduction to data warehouse train material train materials dw bi test dwt bootcamp day 1 introduction to dwt ppt
+401,data warehouse life cycle train material train materials dw bi test dwt bootcamp day 1 introduction to dwt ppt
+402,data warehouse test approach train material train materials dw bi test dwt bootcamp day 2 dwt lifecycle _test strategy ppt
+403,data warehouse test strategy train material train materials dw bi test dwt bootcamp day 2 dwt lifecycle _test strategy ppt
+404,introduction to informatica train material train materials dw bi test dwt bootcamp day 3 informatica ppt
+405,introduction to business object train material train materials dw bi test dwt bootcamp day 4 business object ppt
+406,bo presentation train material train materials dw bi test dwt bootcamp day 4 business object ppt
+407,day7 infosys perfaware train material train materials dw bi test dwt bootcamp day 5 perfaware ppt
+408,dwt case study train material train materials dw bi test dwt bootcamp day 5 perfaware ppt
+409,introduction to rdbms sql basics train material train materials dw bi test rdbms ppt
+410,introduction to rdbms train material train materials dw bi test rdbms ppt
+411,introduction to excel macros train material train materials introduction to macros excel macros ppt
+412,business object report rfp response rfp s financial service ppt
+413,well fargo disputemax report test infysol v1 rfp s financial service ppt
+414,infosys response to waddell reed rfp for edw solution integration 1.2 rfp s financial service doc
+415,infosys response to waddell reed rfp for advisors implementation v1.0 rfp s financial service doc
+416,"adobe cq 5 create one responsive website for desktop, tablet and mobile white paper bi test whitepapers pdf"
+417,real time data warehouse live business analytics white paper bi test whitepapers ppt
+418,security test in business intelligence tool white paper bi test whitepapers pdf
+419,automation in dwt white paper data warehouse test automation pdf
+420,butterfly effect in datawarehouse test white paper data warehouse test automation pdf
+421,data warehouse test use macros and shell script carry no tag white paper data warehouse test automation doc
+422,nurture smartness in data warehouse test white paper etl current trend doc
+423,system integration tesing agile perspective white paper etl current trend doc
+424,whitepaper on realtime data warehouse latest trend in data warehouse white paper etl current trend doc
+425,best practice in datawarehouse test white paper etl best practice and test strategy doc
+426,challenge in test multilingual databases white paper etl best practice and test strategy pdf
+427,dwt challanges and workarounds in trade collateral migration copy white paper etl best practice and test strategy doc
+428,essential elements metrics dwt coe white paper etl best practice and test strategy pdf
+429,greek or latin ensure data quality while validate multilingual data in dwt white paper etl best practice and test strategy pdf
+430,how triage help in dwh test white paper etl best practice and test strategy doc
+431,test a customer concern white paper etl best practice and test strategy doc
+432,test etls in dw white paper etl best practice and test strategy doc
+433,value of qa in dwt white paper etl best practice and test strategy doc
+434,"citi genesis ab initio study v1 0 citi oracle,netezza,teradata,ab initio,bo,aginity netezza work bench,hp qc case study by technology ab initio financial service ppt"
+435,bo report for a lead bank in us case study by technology business object financial service ppt
+436,cognos report test in agile model case study by technology cognos report financial service ppt
+437,informatica test for fidelity case study by technology informatica financial service ppt
+438,etl test use informatica for a uk base client case study by technology informatica financial service ppt
+439,etl test use informatica for cloud storage case study by technology informatica financial service ppt
+440,etl test use informatica for online document storage platform case study by technology informatica financial service ppt
+441,teradata test service for decision platform use hask key map logic case study by technology teradata financial service ppt
+442,teradata case study for fatca conformance case study by technology teradata financial service ppt
+443,bo report for a lead bank in us case study by vertical financial service ppt
+444,cognos report test in agile model case study by vertical financial service ppt
+445,informatica test for fidelity case study by vertical financial service ppt
+446,teradata case study for fatca conformance case study by vertical financial service ppt
+447,teradata test service for decision platform use hask key map logic case study by vertical financial service ppt
+448,"allstate siebel dw propose solution cic+abi+ars v0n rfp s hilife healthcare, insurance and life sciences ppt"
+449,"infosys response to nexus rfp 30 oct 2013 rfp s hilife healthcare, insurance and life sciences pdf"
+450,"aon wrap ivs test approach latest rfp s hilife healthcare, insurance and life sciences ppt"
+451,"infosys proposal for john hancock fund admin security master phaseiia rfp s hilife healthcare, insurance and life sciences ppt"
+452,"anthem dw test presentation v1 rfp s hilife healthcare, insurance and life sciences ppt"
+453,"manulife phase 3 plan update rfp s hilife healthcare, insurance and life sciences ppt"
+454,"manulife dataphile proposal update rfp s hilife healthcare, insurance and life sciences ppt"
+455,"infosys response to nationwide seibel2 rfp s hilife healthcare, insurance and life sciences doc"
+456,"infosys response to ltc lift and shift v0 08 rfp s hilife healthcare, insurance and life sciences doc"
+457,"mir pov v3 rfp s hilife healthcare, insurance and life sciences ppt"
+458,basel dwt automation case study case study by vertical health care insurance and life sciences ppt
+459,amex basel dwt solution 05082015 collateral dw bi test ppt
+460,trp informatica upgrade test infosys rfp s financial service ppt
+461,infosys bi tester ivs ss bi bi test tool and accelerators tool and macros wmv
+462,mfgivs msbi casestudies case study by vertical manufacture ppt
+463,citi ffs sit case study v1.0 case study by vertical financial service ppt
+464,citi genesis case study v1.0 case study by vertical financial service ppt
+465,etl test barclays retail bank bars2stp case study by vertical financial service ppt
+466,etl test barclays card baredcs2 case study by vertical financial service ppt
+467,etl test barclays card barmccsz case study by vertical financial service ppt
+468,crc case studyv1 0 case study by vertical financial service ppt
+469,citi usrri case study v1 0 case study by vertical financial service ppt
+470,idtw leaflet tool and accelerators infosys accelarators infosys perfaware collaterals pdf
+471,infosys data warehouse test solution capability overview tool and accelerators infosys accelarators infosys perfaware collaterals ppt
+472,infosys data warehouse test solution single slider tool and accelerators infosys accelarators infosys perfaware collaterals ppt
+473,infosys data test workbench faqs tool and accelerators infosys accelarators infosys perfaware help document pdf
+474,infosysdatatestingwb user guide tool and accelerators infosys accelarators infosys perfaware help document pdf
+475,perfaware performance benchmarking detail tool and accelerators infosys accelarators infosys perfaware help document doc
+476,perfaware system requirements tool and accelerators infosys accelarators infosys perfaware help document ppt
+477,perfaware v4.0 installerguide v1.0 tool and accelerators infosys accelarators infosys perfaware help document doc
+478,allstate allbridge perfaware case study v2 0 tool and accelerators infosys accelarators infosys perfaware case study ppt
+479,automation of post hana migration data validation adidas tool and accelerators infosys accelarators infosys perfaware case study ppt
+480,bnsf ch case study v1.0 tool and accelerators infosys accelarators infosys perfaware case study ppt
+481,cme customer perfaware poc report tool and accelerators infosys accelarators infosys perfaware case study ppt
+482,ets consumer hub wgs initial load perfaware test execution summary v1 0 tool and accelerators infosys accelarators infosys perfaware case study ppt
+483,gap pw case study v 0 1 tool and accelerators infosys accelarators infosys perfaware case study ppt
+484,ihl customer perfaware poc report tool and accelerators infosys accelarators infosys perfaware case study ppt
+485,nordstrom case study tool and accelerators infosys accelarators infosys perfaware case study ppt
+486,perfaware implementation at gap inc. for data test tool and accelerators infosys accelarators infosys perfaware case study msg
+487,perfaware bofa case study tool and accelerators infosys accelarators infosys perfaware case study ppt
+488,perfaware case study nordstrom tool and accelerators infosys accelarators infosys perfaware case study ppt
+489,perfaware pointsolutiondoc v1.0 tool and accelerators infosys accelarators infosys perfaware case study pdf
+490,perfaware ubs poc tool and accelerators infosys accelarators infosys perfaware case study ppt
+491,perfaware jcpenny tool and accelerators infosys accelarators infosys perfaware case study ppt
+492,sdm soar case study tool and accelerators infosys accelarators infosys perfaware case study ppt
+493,tdm perfaware case study sdm tool and accelerators infosys accelarators infosys perfaware case study ppt
+494,tfs data migration case study tool and accelerators infosys accelarators infosys perfaware case study ppt
+495,twc case study v1 0 tool and accelerators infosys accelarators infosys perfaware case study ppt
+496,well point data conversion case study v1 0 tool and accelerators infosys accelarators infosys perfaware case study ppt
+497,perfaware video tool and accelerators infosys accelarators infosys perfaware pdf
+498,infosys datatesting workbench demo tool and accelerators infosys accelarators infosys perfaware demo zip
+499,infosys data test workbench market demo tool and accelerators infosys accelarators infosys perfaware demo zip
+500,perfaware video1 tool and accelerators infosys accelarators infosys perfaware wmv
+501,gap and jcp bi report tester gap bi report retail case study by vertical retail ppt
+502,gap etl dwh casestudy gap etl dwh retail case study by vertical retail ppt
+503,nab gdw fatca casestudy nab etl dwh finanacial service case study by vertical financial service ppt
+504,nmg edw etl report validation casestudy norstrom etl bi retail case study by vertical retail ppt
+505,teradata case study norstrom etl retail case study by vertical retail ppt
+506,cisco bi autoamtion case study cisco bi test mfg case study by vertical manufacture ppt
+507,suntrust case studyv1 1 suntrust bi test financial service case study by vertical financial service ppt
+508,ahold mdm test case study v1.0 case study by technology mdm ppt
+509,bnsf ch case study v1.0 case study by technology mdm ppt
+510,nordstrom epm case study v1.0 case study by technology mdm ppt
+511,mcdermott mdm case study v1.0 case study by technology mdm ppt
+512,integrate macros utilities tool platform tool and accelerators tool and macros xls
+513,percolation of perfaware bi tester and cub validation tool (2) collateral xls
+514,cgc idw st case study v1 0 cgc dw/bi financial service case study by technology informatica financial service ppt
+515,idtw perfaware demo tool and accelerators idtw perfaware flash demo mp4
+516,"well fargo case study v0.1 well fargo informatica, oracle etl test case study by technology informatica financial service ppt"
+517,smc estimation model templates estimation xlsm
+518,perfaware demo tool and accelerators infosys accelarators infosys perfaware mp4
+519,tuem estimation model templates estimation xls
+520,teststrategy v1 1 templates test strategy doc
+521,sit test exceution and result report templates result report xls
+522,sit test exceution and result report templates status report xls
+523,test result summary report templates result report doc
+524,requirements traceability matrix template templates traceability xls
+525,test data generator tool and accelerators tool and macros xlsm
+526,cctv soap ui framework for test data creation and comparison tool and accelerators tool and macros zip
+527,elitedatacomparator tool and accelerators tool and macros zip
+528,caliber dq analyzer manual tool and accelerators tool and macros caliber dq analyzer doc
+529,caliber dq analyzer tool and accelerators tool and macros caliber dq analyzer xlsm
+530,daemon unix base dqa tool and accelerators tool and macros daemon unix base dqa doc
+531,daemon tool and accelerators tool and macros daemon unix base dqa zip
+532,trs generator.xls tool and accelerators tool and macros xlsm
+533,flat file mocker tool and accelerators tool and macros zip
+534,fama report comparator tool and accelerators tool and macros xlsm
+535,data validation use dvo tool and accelerators informatica_accelerators pdf
+536,data validation use haskkeymappings tool and accelerators informatica_accelerators pdf
+537,msim bi report tool and accelerators microsift integrity manager doc
+538,bok 607211 gap bok on msim tool and accelerators microsift integrity manager doc
+539,itut 547088 tool and accelerators microsift integrity manager doc
+540,test automation use autoetl tester tool rcl tool and accelerators auto etl tester ppt
+541,auto etl tester tool and accelerators auto etl tester doc
+542,parallel tester in rb rcl tool and accelerators auto etl tester ppt
+543,bi report tester gap tool and accelerators bi report tester ppt
+544,bi report tester enhancement tool and accelerators bi report tester ppt
+545,prompt recorder tool and accelerators prompt recorder ppt
+546,test data setup use informaticatdm tool and accelerators informatica_accelerators pdf
+547,test data setup use ab initio tool and accelerators ab initio_accelerators pdf
+548,question bank informatica and ab initio train material train materials question bank xls
+549,etlcoe idtw implementation tool and accelerators infosys accelarators infosys perfaware implementation success stories xls
+550,idtw@nab v1.0 tool and accelerators infosys accelarators infosys perfaware implementation success stories ppt
+551,idtw@toyota tool and accelerators infosys accelarators infosys perfaware implementation success stories ppt
+552,idtw@westpac tool and accelerators infosys accelarators infosys perfaware implementation success stories ppt
+553,etl bi test script tool and accelerators reusable artifacts xls
+554,etl test solution rfp s ppt
+555,dw estimation template templates estimation xlsm
+556,infosys etl test factory blue print v0.2 collateral ppt
+557,ab initio handbook train material train materials dw bi tool etl abinitio ppt
+558,itdw enhancement status tool and accelerators idtw perfaware flash demo xls
+559,etlcoe idtw implementation tool and accelerators idtw perfaware flash demo xls
+560,data quality analysis train material train materials dw bi test doc
+561,test data setup use informaticatdm train material train materials dw bi tool etl informatica pdf
+562,gap etl dwh casestudy gap etl dwh retail case study by technology data stage retail ppt
+563,edw case study draft michael store dwh etl case study by technology data stage retail ppt
+564,rbs citizens datastage upgrade case study rbs citizens etl financial service case study by technology data stage financial service ppt
+565,infosys data warehouse test solution tool and accelerators idtw perfaware flash demo ppt
+566,infosys mdm test service single slide collateral mdm test ppt
+567,mdm test single slider collateral mdm test ppt
+568,es p310 mdm v1.1 train material train materials mdm test ppt
+569,ab initio design graph for test data setup tool and accelerators ab initio_accelerators pdf
+570,test data setup test case tool and accelerators ab initio_accelerators pdf
+571,informatica question train material train materials question bank doc
+572,dwt framework v0.1 collateral xls
+573,automate etl batch job analyzer tool and accelerators informatica_accelerators ppt
+574,msim mailer train material train materials bi report mailer series pdf
+575,msim train material train materials bi report mailer series pdf
+576,introduction to report service train material train materials bi report train ms bi ppt
+577,msbi intro train material train materials bi report train ms bi ppt
+578,dw bi test flyer v2 collateral doc
+579,bofa knowledge share session ver0 2 tool and accelerators best practice ppt
+580,citi genesis uat tool and accelerators best practice ppt
+581,dwt coe well fargo tool and accelerators best practice ppt
+582,fidelity best practice tool and accelerators best practice ppt
+583,hyperion essbase tool and accelerators best practice ppt
+584,ms bi automation case study (3) tool and accelerators best practice pdf
+585,suntrust knowledge share session tool and accelerators best practice ppt
+586,dw bi test account review report amex collateral account review doc
+587,dw bi test account review report cgc 220116 collateral account review doc
+588,suntrust dw bi test account review report v 1.1 collateral account review doc
+589,twc dw bi test account review report2016 collateral account review doc
+590,visa dw bi test account review report collateral account review doc
+591,dw bi test account review report pwc collateral account review doc
+592,dw bi test account review report sce scedisson collateral account review doc
+593,rb mdm rpf reckitt benckiser mdm retail rfp s retail mdm ppt
+594,"dattocsv converter unix, java tool and accelerators tool and macros doc"
+595,informatica dvo video tool and accelerators informatica_accelerators mp4
+596,mdm exposure feb2016 collateral mdm test xls
+597,mdm estimation template collateral mdm test xls
+598,mdm test strategy collateral mdm test doc
+599,dw bi test account review report aetna aetna datastage healthcare collateral account review doc
+600,healthcare etl case study aetna case study by vertical health care insurance and life sciences ppt
+601,healthcare etl case study cvs case study by vertical health care insurance and life sciences ppt
+602,retail etl case study jcpenny case study by vertical retail ppt
+603,logistics etl case study case study by vertical logistics ppt
+604,healthcare insurance etl technical case study case in a point technical ppt
+605,infosys etl test factory case study case in a point technical ppt
+606,"healthcare dw business case aetna datastage,abinitio, netezza, db2 healthcare case study case in a point business ppt"
+607,"dw process case aetna datastage,abinitio, netezza, db2 healthcare case study case in a point process ppt"
+608,lacare dwt analysis version 1.0 case study case in a point process ppt
+609,etl market tool comparison tool and accelerators ppt
+610,dwt bi train calendar for mar 2016 for l1 l2 revise train material train materials train calendar msg
+611,grow your account with master data collateral mdm test reference document pdf
+612,mdm practice overview collateral mdm test reference document ppt
+613,infosys mdm methodolody general deck collateral mdm test reference document ppt
+614,riversandmdmautomation video collateral mdm test riversand mdm wmv
+615,referential data management collateral mdm test rdm ppt
+616,idtw final 5 tfs final collateral tech videos mp4
+617,microsoft dw bi test account review report collateral account review doc
+618,amfam dw bi test account review report collateral account review doc
+619,dw bi proposal generic questionnaire rfp s rfp questionnaire xls
+620,advance sql train material train materials basic train material(l1 to l2) day11 sql ppt
+621,sql1 train material train materials basic train material(l1 to l2) day11 sql ppt
+622,adv unix part2 train material train materials basic train material(l1 to l2) day10 unix ppt
+623,basic unix train material train materials basic train material(l1 to l2) day10 unix ppt
+624,thumb train material train materials basic train material(l1 to l2) day10 unix db
+625,unix day1 new train material train materials basic train material(l1 to l2) day10 unix pdf
+626,unix day2 new train material train materials basic train material(l1 to l2) day10 unix pdf
+627,day1 database fundamentals new train material train materials basic train material(l1 to l2) day1 database fundamentals ppt
+628,thumb train material train materials basic train material(l1 to l2) day1 database fundamentals db
+629,day1 assignment train material train materials basic train material(l1 to l2) day1 database fundamentals assignment doc
+630,data validation option in informatica for datawarehouse test train material train materials basic train material(l1 to l2) day2 informatica doc
+631,dvo practice train material train materials basic train material(l1 to l2) day2 informatica doc
+632,labguide 01 ivs dwt informatica etl train material train materials basic train material(l1 to l2) day2 informatica pdf
+633,labguide 02 for informatica work with sql server database new template train material train materials basic train material(l1 to l2) day2 informatica pdf
+634,perfaware comparison with informatica dvo train material train materials basic train material(l1 to l2) day2 informatica ppt
+635,slide course data integration informatica basic train material train materials basic train material(l1 to l2) day2 informatica ppt
+636,thumb train material train materials basic train material(l1 to l2) day2 informatica db
+637,be94ac0f train material train materials basic train material(l1 to l2) day3 introduction to data warehouse tmp
+638,day2 introduction to data warehouse train material train materials basic train material(l1 to l2) day3 introduction to data warehouse ppt
+639,thumb train material train materials basic train material(l1 to l2) day3 introduction to data warehouse db
+640,data warehouse test life cycle train material train materials basic train material(l1 to l2) day4 data warehouse test lifecycle ppt
+641,thumb train material train materials basic train material(l1 to l2) day4 data warehouse test lifecycle db
+642,data warehouse test approach train material train materials basic train material(l1 to l2) day5 data warehouse test approach ppt
+643,thumb train material train materials basic train material(l1 to l2) day5 data warehouse test approach db
+644,assignment day6 train material train materials basic train material(l1 to l2) day6 idtw_perfaware xls
+645,idtw infosys data warehouse test solution train material train materials basic train material(l1 to l2) day6 idtw_perfaware ppt
+646,infosys perfaware train material train materials basic train material(l1 to l2) day6 idtw_perfaware ppt
+647,performance test for data warehouse train material train materials basic train material(l1 to l2) day6 idtw_perfaware ppt
+648,thumb train material train materials basic train material(l1 to l2) day6 idtw_perfaware db
+649,validations for perfaware update data train material train materials basic train material(l1 to l2) day6 idtw_perfaware xls
+650,well point data conversion case study v1 0 train material train materials basic train material(l1 to l2) day6 idtw_perfaware ppt
+651,dwtest strategy train material train materials basic train material(l1 to l2) day7 data warehouse test strategy and macros ppt
+652,etl teststrategy v1 1 train material train materials basic train material(l1 to l2) day7 data warehouse test strategy and macros doc
+653,intro to macro train material train materials basic train material(l1 to l2) day7 data warehouse test strategy and macros ppt
+654,thumb train material train materials basic train material(l1 to l2) day7 data warehouse test strategy and macros db
+655,test data management train material train materials basic train material(l1 to l2) day8 test data management pdf
+656,thumb train material train materials basic train material(l1 to l2) day8 test data management db
+657,bi tester v 1 0 train material train materials basic train material(l1 to l2) day12 bi report ppt
+658,bi train train material train materials basic train material(l1 to l2) day12 bi report ppt
+659,slide course bi report test train material train materials basic train material(l1 to l2) day12 bi report ppt
+660,thumb train material train materials basic train material(l1 to l2) day12 bi report db
+661,bo presentation train material train materials basic train material(l1 to l2) day12 bi report archive ppt
+662,bo report test high level pointers train material train materials basic train material(l1 to l2) day12 bi report archive ppt
+663,bo train complete with exercise train material train materials basic train material(l1 to l2) day12 bi report archive ppt
+664,thumb train material train materials basic train material(l1 to l2) day12 bi report archive db
+665,etl test coe status mar 2016 email archive msg
+666,re dwt bi train calendar for mar 2016 for l1 l2 revise email archive msg
+667,re demo utilities tool of iap(integrated automation platform) email archive msg
+668,etlcoe fy16 roundup and plan for fy17 email archive msg
+669,re request for caliber dqa tool user manual email archive msg
+670,upcoming idtw v6 0 – data ingestion validation framework email archive msg
+671,etlcoe present the much await perfaware demo box email archive msg
+672,idtw new feature and enhancements email archive msg
+673,test data strategy for etl project train material train materials adv train material(l2 to l3) zip
+674,a learners guide to data warehouse test touch point convert train material train materials dw bi test basics of dwt doc
+675,day2 introduction to data warehouse convert train material train materials basic train material(l1 to l2) day3 introduction to data warehouse ppt
+676,write think paper train material train materials adv train material(l2 to l3) zip
+677,requirements traceability matrix template2 templates traceability xls
+678,epm automatedtestcase collateral mdm test riversand mdm arf
+679,presentationslides step data model basics collateral mdm test stibo mdm pdf
+680,presentationslides build a product hierarchy collateral mdm test stibo mdm pdf
+681,pcm a hybris pim collateral mdm test hybris mdm ppt
+682,jenkins integration with perfaware tool and accelerators idtw perfaware flash demo reusable artifacts doc
+683,parameterization and variable length file tool and accelerators idtw perfaware flash demo reusable artifacts doc
+684,perfaware performance benchmarking detail tool and accelerators idtw perfaware flash demo reusable artifacts doc
+685,qc integration with perfaware tool and accelerators idtw perfaware flash demo reusable artifacts doc
+686,migration from pw to idtw tool and accelerators idtw perfaware flash demo pdf
+687,perfaware system requirements tool and accelerators idtw perfaware flash demo ppt
+688,infosys data test workbench faqs tool and accelerators idtw perfaware flash demo reusable artifacts pdf
+689,standard etl bi dm estimation template v5 templates estimation xls
+690,"bank bank informatica, business object bank rfp s financial service zip"
+691,infosys data warehouse test solution tool and accelerators idtw perfaware flash demo reusable artifacts ppt
+692,dqm tool comparison v0 5 tool and accelerators xls
+693,caseinapoint bank implementations case study case in a point business ppt
+694,caseinapoint etl healthcareimplementations v1 case study case in a point business ppt
+695,ahold mdm test case study v1.0 rfp s retail mdm ppt
+696,bnsf ch case study v1.0 rfp s retail mdm ppt
+697,rb mdm rpf reckitt benckiser mdm retail case study by technology mdm ppt
+698,dwtbi coe dashboard q1fy17 collateral account review xls
+699,amerprise financial etl test informatica case study v1.0 amerprise financial etl dwh financial service case study by vertical financial service ppt
+700,idtw account specific issue and customization tool and accelerators idtw perfaware flash demo xls
+701,etl coe dashboard etl collateral account review xls
+702,nab – test execution by perfaware nab data warehouse test financial service collateral tech videos mp4
+703,scd type 2 test etl test scd type 2 data warehouse collateral tech videos ppt
+704,test scd type 2 etl test scd type 2 data warehouse collateral tech videos wmv
+705,karthikeyan sa (628972) daily health check up automation tool dell automation use visual c# data warehouse test collateral tech videos mp4
+706,think leadership white paper rbs train material train materials adv train material(l2 to l3) zip
+707,hugevolumeof data vigneswaran collateral tech videos ppt
+708,wngmigration collateral tech videos wmv
+709,infosys mdm test v1 5 wip collateral mdm test service offer ppt
+710,mdm test flyer collateral mdm test service offer doc
+711,mdm train data collateral mdm test train and enablement xls
+712,summary caseinapoint etl healthcareimplementations case study case in a point technical ppt
+713,caseinapoint bank implementations case study case in a point technical ppt
+714,cisco client video v1 cisco etl tool and accelerators mp4
+715,effort estimation train material train materials adv train material(l2 to l3) zip
+716,idtw user manual tool and accelerators idtw perfaware flash demo pdf
+717,bicoe report estimation template templates estimation xlsm
+718,perfaware solution approach tool and accelerators idtw perfaware flash demo ppt
+719,allstate casestudy case study by vertical health care insurance and life sciences ppt
+720,amfam casestudy case study by vertical health care insurance and life sciences ppt
+721,mfg ivs cisco case study v 01 case study by vertical manufacture ppt
+722,msivs case study case study by vertical manufacture ppt
+723,"jbehavetool etl coe java dwh, etl tool and accelerators opensource base tool ppt"
+724,idtw demo video tool and accelerators idtw perfaware flash demo reusable artifacts doc
+725,amerprise financial etl test case study v1 0 amerprise financial etl dwh financial service case study by technology informatica health care insurance and life sciences ppt
+726,etl sub coe non perfaware etl toolsv1.3 tool and accelerators opensource base tool ppt
+727,etl market tool comparison tool and accelerators opensource base tool ppt
+728,fitnesse framework for dwhtesting v1.0 tool and accelerators opensource base tool ppt
+729,perfaware issue resolution sme tool and accelerators idtw perfaware flash demo reusable artifacts rtf
+730,bi train material train material train materials bi report train ms bi ppt
+731,sloix edms data validation tool tool and accelerators opensource base tool ppt
+732,idtw installation support video tool and accelerators idtw perfaware flash demo arf
+733,jenkins setup tool and accelerators idtw perfaware flash demo arf
+734,devops in analytics westpac bank tool and accelerators idtw perfaware flash demo wmv
+735,data cleaner dq profile 2 tool and accelerators opensource base tool ppt
+736,ds account heat map plan bi nov 2016 update templates heat map bicoe heat map xls
+737,etlcoe present idtw knowledge series edition 1 idtw idtw idtw tool and accelerators idtw perfaware flash demo idtw_knowledgesharingseries msg
+738,machine learn video set up ivs-ss machine learn java tool and accelerators machine learn ppt
+739,jenkins tool and accelerators idtw perfaware flash demo war
+740,jenkins tool and accelerators idtw perfaware flash demo reusable artifacts war
+741,bi train material v02 train material train materials bi report train ms bi pdf
+742,etlcoe present idtw troubleshoot knowledge series edition 1 tool and accelerators idtw perfaware flash demo idtw_trobleshooting_knowledgesharingseries msg
+743,idtw request metrics weekly update (16 jan 22 jan 2017) tool and accelerators idtw perfaware flash demo dtw_weeklyrequestsstatusmetrics msg
+744,test case and status dsp 3.0 uat tool and accelerators idtw perfaware flash demo idtw 6.0 uat sample templates and reference document xls
+745,issue log step dsp 3.0 uat tool and accelerators idtw perfaware flash demo idtw 6.0 uat sample templates and reference document doc
+746,re dsp 3 0 uat head up tool and accelerators idtw perfaware flash demo idtw 6.0 uat sample templates and reference document msg
+747,datafileuploadsingle test case and status dsp 3.0 uat tool and accelerators idtw perfaware flash demo idtw 6.0 uat test case sheet xls
+748,datafileuploadmultiple test case and status dsp 3.0 uat tool and accelerators idtw perfaware flash demo idtw 6.0 uat test case sheet xls
+749,idtw5.3 or perfaware knownissues tool and accelerators idtw perfaware flash demo xls
+750,tool connections check test case and status dsp 3.0 uat tool and accelerators idtw perfaware flash demo idtw 6.0 uat test case sheet xls
+751,admin module test case and status dsp 3.0 uat tool and accelerators idtw perfaware flash demo idtw 6.0 uat test case sheet xls
+752,data quality analysis test case and status dsp 3.0 uat tool and accelerators idtw perfaware flash demo idtw 6.0 uat test case sheet xls
+753,test strategies test case and status dsp 3.0 uat tool and accelerators idtw perfaware flash demo idtw 6.0 uat test case sheet xls
+754,integration with unix test case and status dsp 3.0 uat tool and accelerators idtw perfaware flash demo idtw 6.0 uat test case sheet xls
+755,integration with alm test case and status dsp 3.0 uat tool and accelerators idtw perfaware flash demo idtw 6.0 uat test case sheet xls
+756,test case and status dsp 3 0 uat querybuilder tool and accelerators idtw perfaware flash demo idtw 6.0 uat test case sheet xls
+757,rule builder test case and status dsp 3.0 uat tool and accelerators idtw perfaware flash demo idtw 6.0 uat test case sheet xls
+758,test management test case and status dsp 3.0 uat tool and accelerators idtw perfaware flash demo idtw 6.0 uat test case sheet xls
+759,settings test case and status dsp 3.0 uat tool and accelerators idtw perfaware flash demo idtw 6.0 uat test case sheet xls
+760,result verification test case and status dsp 3.0 uat tool and accelerators idtw perfaware flash demo idtw 6.0 uat test case sheet xls
+761,hetrogeneous datacomparison test case and status dsp 3.0 uat tool and accelerators idtw perfaware flash demo idtw 6.0 uat test case sheet xls
+762,homogeneous data comparison test case and status dsp 3.0 uat tool and accelerators idtw perfaware flash demo idtw 6.0 uat test case sheet xls
+763,parameterization test case and status dsp 3.0 uat tool and accelerators idtw perfaware flash demo idtw 6.0 uat test case sheet xls
+764,poc demo v1 tool and accelerators talend studio zip
+765,test case and status dsp 3 0 uat querybuilder feb10 tool and accelerators idtw perfaware flash demo idtw 6.0 uat test case sheet xls
+766,test case and status dsp 3 0 uat querybuilder feb16 tool and accelerators idtw perfaware flash demo idtw 6.0 uat test case sheet xls
+767,idtw defectsfromdefecttracker tool and accelerators idtw perfaware flash demo idtw 6.0 uat defect xls
+768,white paper delphix for application development tool and accelerators pdf
+769,bireporttesterv3.0 user gide tool and accelerators bi report tester pdf
+770,idtw5.3 or perfaware knownissues tool and accelerators idtw perfaware flash demo idtw 6.0 uat defect xls
+771,etlcoe present idtw troubleshoot knowledge series edition 2 tool and accelerators idtw perfaware flash demo idtw_trobleshooting_knowledgesharingseries msg
+772,etlcoe present idtw troubleshoot knowledge series edition 3 tool and accelerators idtw perfaware flash demo idtw_trobleshooting_knowledgesharingseries msg
+773,etlcoe present idtw troubleshoot knowledge series edition 4 tool and accelerators idtw perfaware flash demo idtw_trobleshooting_knowledgesharingseries msg
+774,idtw request metrics weekly update (13feb 19feb 2017) tool and accelerators idtw perfaware flash demo dtw_weeklyrequestsstatusmetrics msg
+775,idtw request metrics weekly update (23 jan 03 feb 2017) tool and accelerators idtw perfaware flash demo dtw_weeklyrequestsstatusmetrics msg
+776,batchexecution test case and status dsp 3.0 uat tool and accelerators idtw perfaware flash demo idtw 6.0 uat test case sheet xls
+777,re idtw support model tool and accelerators idtw perfaware flash demo msg
+778,idtw request metrics weekly update (20feb 26feb 2017) tool and accelerators idtw perfaware flash demo dtw_weeklyrequestsstatusmetrics msg
+779,idtw request metrics weekly update (27feb 5march 2017) tool and accelerators idtw perfaware flash demo dtw_weeklyrequestsstatusmetrics msg
+780,restfulapi test case and status dsp 3.0 uat tool and accelerators idtw perfaware flash demo idtw 6.0 uat test case sheet xls
+781,ssbi v09 course reference document dwt test ppt
+782,development skills plan v1.2 tool and accelerators idtw perfaware flash demo xls
+783,dashboard data comparison test case and status dsp 3.0 uat tool and accelerators idtw perfaware flash demo idtw 6.0 uat test case sheet xls
+784,homogeneous data comparison test case and status dsp 3.0 uat copy tool and accelerators idtw perfaware flash demo idtw 6.0 uat test case sheet xls
+785,fs client kyc and aml case study v1.0 02mar17 bofa and citi case study by vertical financial service ppt
+786,bo to bo upgrade case study case study bi case study bi case study_ single slide ppt
+787,boxi report test case study case study bi case study bi case study_ single slide ppt
+788,cenovus bo to bo upgrade case study case study bi case study bi case study_ single slide ppt
+789,management report and analytics case study case study bi case study bi case study_ single slide ppt
+790,mcdermott cube case study case study bi case study bi case study_ single slide ppt
+791,micro startegyreports test case study case study bi case study bi case study_ single slide ppt
+792,obiee report test case study case study bi case study bi case study_ single slide ppt
+793,ssrs report test case study case study bi case study bi case study_ single slide ppt
+794,tableau report test case study case study bi case study bi case study_ single slide ppt
+795,weatherford obieereporttesting case study bi case study bi case study_ single slide ppt
+796,bo to bo upgrade case study case study bi case study bi case study detail ppt
+797,cenovus bo to bo upgrade case study v1.0case study case study bi case study bi case study detail ppt
+798,qlikview report test case study case study bi case study bi case study detail ppt
+799,ssrs report test case study case study bi case study bi case study detail ppt
+800,weatherford obieereportstesting case study case study bi case study bi case study detail ppt
+801,cgc fibi case study case study by technology informatica financial service ppt
+802,demo dqa use idtw tool and accelerators idtw perfaware flash demo reusable artifacts zip
+803,qlikview report test case study case study bi case study bi case study_ single slide ppt
+804,idtw 5.3 installation guide etl coe etl coe etl coe tool and accelerators idtw perfaware flash demo doc
+805,case study case study by vertical manufacture ppt
+806,re idtw 6.0 evaluation agreement for review tool and accelerators idtw perfaware flash demo msg
+807,perfaware troubleshoot (2) tool and accelerators idtw perfaware flash demo pdf
+808,jenkinsintegrationwithidtw etl coe etl coe etl coe tool and accelerators idtw perfaware flash demo doc
+809,bofa best practice apr'17 session ver 1.0 tool and accelerators idtw perfaware flash demo data service best practice knowledge share sessions pdf
+810,bireporting 6 etlcoe idyw6.0 etlcoe tool and accelerators idtw perfaware flash demo videos_modulewise_idtw6.0 arf
+811,jenkinsintegrationwithidtw6 9 tool and accelerators idtw perfaware flash demo videos_modulewise_idtw6.0 arf
+812,hilife innovation differentiatorsinci cd model case study case in a point technical ppt
+813,enhance dq analysis through reusable abinitio graph case study case in a point technical ppt
+814,etl devops poc case study case in a point technical ppt
+815,adminmodule 1 adminmodule adminmodule adminmodule tool and accelerators idtw perfaware flash demo videos_modulewise_idtw6.0 arf
+816,rulebuildermodule 3 etlcoe idtw6 etlcoe tool and accelerators idtw perfaware flash demo videos_modulewise_idtw6.0 arf
+817,datacompariosnmodule 4 etlcoe idtw6 etlcoe tool and accelerators idtw perfaware flash demo videos_modulewise_idtw6.0 arf
+818,dqa dsp 5 etlcoe dsp6 etlcoe tool and accelerators idtw perfaware flash demo videos_modulewise_idtw6.0 arf
+819,toolsmodule exceptrulebuilder 2 etlcoe dsp6 etlcoe tool and accelerators idtw perfaware flash demo videos_modulewise_idtw6.0 arf
+820,restapi getmethods 8 etlcoe dsp6 etlcoe tool and accelerators idtw perfaware flash demo videos_modulewise_idtw6.0 arf
+821,unixintegration postandconditionsteptype 7 etlcoe dsp6 etlcoe tool and accelerators idtw perfaware flash demo videos_modulewise_idtw6.0 arf
+822,unixintegration preaction 7 etlcoe dsp6 etlcoe tool and accelerators idtw perfaware flash demo videos_modulewise_idtw6.0 arf
+823,almintegrationwithidtw6 10 etlcoe dsp6 etlcoe tool and accelerators idtw perfaware flash demo videos_modulewise_idtw6.0 arf
+824,restapi postmethod 8 etlcoe dsp6 etlcoe tool and accelerators idtw perfaware flash demo videos_modulewise_idtw6.0 arf
+825,querytracker codefix 5may2017 sharepoint querytracker_codefix_5may2017 idyw6.0 etlcoe tool and accelerators idtw perfaware flash demo idtw 6.0 uat defect xls
+826,cgc etl informatica case study by vertical financial service ppt
+827,allstate automation utilities v3 tool and accelerators ppt
+828,sqlite file to table converion utility tool and accelerators ppt
+829,installation tracker 2017 2018 etl coe etl coe etl coe tool and accelerators idtw perfaware flash demo xls
+830,"idtw6.0 fileuploadfeature unixintegration etl-coe unix , etl , idtw etl tool and accelerators idtw perfaware flash demo doc"
+831,idtw 6.0 scenarios and resources 3.0 tool and accelerators idtw perfaware flash demo idtw 6.0 uat sample templates and reference document xls
+832,ivs ss ds6 citizens knowledge share session may 31 2017 tool and accelerators idtw perfaware flash demo data service best practice knowledge share sessions ppt
+833,dashboardmodule 11 etlcoe idtw6.0 idtw6.0 tool and accelerators idtw perfaware flash demo videos_modulewise_idtw6.0 arf
+834,lab setup 6.16 tool and accelerators idtw perfaware flash demo xls
+835,etlcoe present idtw troubleshoot knowledge series edition 10 tool and accelerators idtw perfaware flash demo idtw_trobleshooting_knowledgesharingseries msg
+836,etlcoe present idtw troubleshoot knowledge series edition 11 tool and accelerators idtw perfaware flash demo idtw_trobleshooting_knowledgesharingseries msg
+837,etlcoe present idtw troubleshoot knowledge series edition 12 tool and accelerators idtw perfaware flash demo idtw_trobleshooting_knowledgesharingseries msg
+838,etlcoe present idtw troubleshoot knowledge series edition 7 tool and accelerators idtw perfaware flash demo idtw_trobleshooting_knowledgesharingseries msg
+839,etlcoe present idtw troubleshoot knowledge series edition 8 tool and accelerators idtw perfaware flash demo idtw_trobleshooting_knowledgesharingseries msg
+840,etlcoe present idtw troubleshoot knowledge series edition 9 tool and accelerators idtw perfaware flash demo idtw_trobleshooting_knowledgesharingseries msg
+841,etlcoe present idtw troubleshoot knowledge series edition 5 tool and accelerators idtw perfaware flash demo idtw_trobleshooting_knowledgesharingseries msg
+842,etlcoe present idtw troubleshoot knowledge series edition 6 tool and accelerators idtw perfaware flash demo idtw_trobleshooting_knowledgesharingseries msg
+843,nationwide idtw poc roi anlysis v2.0 (002) (002) tool and accelerators infosys accelarators infosys perfaware case study ppt
+844,infosysdatatestingwb usermanual v5.3 etlcoe tool and accelerators idtw perfaware flash demo pdf
+845,idtw request metrics update (03 april 20 april 2017) tool and accelerators idtw perfaware flash demo dtw_weeklyrequestsstatusmetrics msg
+846,idtw request metrics update (03 june'17 25 june'17) tool and accelerators idtw perfaware flash demo dtw_weeklyrequestsstatusmetrics msg
+847,idtw request metrics update (13 may 02 june 2017) tool and accelerators idtw perfaware flash demo dtw_weeklyrequestsstatusmetrics msg
+848,idtw request metrics update (21april 12 may 2017) tool and accelerators idtw perfaware flash demo dtw_weeklyrequestsstatusmetrics msg
+849,idtw request metrics weekly update ( 06 march 12 march 2017) tool and accelerators idtw perfaware flash demo dtw_weeklyrequestsstatusmetrics msg
+850,idtw request metrics weekly update ( 13 march 26 march 2017) tool and accelerators idtw perfaware flash demo dtw_weeklyrequestsstatusmetrics msg
+851,idtw request metrics weekly update (27march 02april 2017) tool and accelerators idtw perfaware flash demo dtw_weeklyrequestsstatusmetrics msg
+852,compareone open source automation bigdata etl tool and accelerators idtw perfaware flash demo data service best practice knowledge share sessions ds7 exelon best practise_june_06_2017 doc
+853,utilities client bigdatatesting presentation tool and accelerators idtw perfaware flash demo data service best practice knowledge share sessions ds7 exelon best practise_june_06_2017 ppt
+854,nationwide idtw poc roi anlysis v2.0 (002) tool and accelerators idtw perfaware flash demo poc ppt
+855,idtw demo sap hana tool and accelerators idtw perfaware flash demo wrf
+856,whitepaper automate regression test in agile etl dwh test project white paper data warehouse test automation pdf
+857,infosys bpm test service flyer version2 ivs_ss_artifacts ds erp pdf
+858,infosys orc package test service flyer version 3 ivs_ss_artifacts ds erp pdf
+859,infosys sfdc test service flyer2 ivs_ss_artifacts ds erp pdf
+860,infosys sap s4 hana migration test solution flyer publish ivs_ss_artifacts ds erp pdf
+861,sap test service catalogue flyer [print] ivs_ss_artifacts ds erp pdf
+862,sap test flyer v1.0 ivs_ss_artifacts ds erp pdf
+863,ecs sap test gtm v0.2 ivs_ss_artifacts ds erp ppt
+864,infosys performance test and engineer service 0418 ivs_ss_artifacts ds performance ppt
+865,tdm modules testcases tool and accelerators idtw perfaware flash demo idtw regression suite tdm xls
+866,metadata sqlserver capital email tool and accelerators idtw perfaware flash demo idtw regression suite etl connections_metadatafiles xls
+867,bigdatavalidation regression suite tool and accelerators idtw perfaware flash demo idtw regression suite big data xls
+868,sv– service offer l1 ivs_ss_artifacts ds soa ppt
+869,infosys reliability assurance ivs_ss_artifacts ds performance pdf
+870,pte contact and alliance ivs_ss_artifacts ds performance ppt
+871,ds account heat map plan bi jul 2017 templates heat map bicoe heat map xls
+872,metadata capital email oracle tool and accelerators idtw perfaware flash demo idtw regression suite etl connections_metadatafiles xls
+873,capital market pipedel single tool and accelerators idtw perfaware flash demo idtw regression suite etl datafiles txt
+874,capital market pipedelimited metadata tool and accelerators idtw perfaware flash demo idtw regression suite etl datafiles xls
+875,capital market pipedel 1 tool and accelerators idtw perfaware flash demo idtw regression suite etl datafiles txt
+876,capital market pipedel 2 tool and accelerators idtw perfaware flash demo idtw regression suite etl datafiles txt
+877,data service contact and alliance ivs_ss_artifacts ds data service ppt
+878,capital market pipedel single modify tool and accelerators idtw perfaware flash demo idtw regression suite etl datafiles txt
+879,data service service offer ivs_ss_artifacts ds data service ppt
+880,infosys big data analytics validation service ivs_ss_artifacts ds data service ppt
+881,key engagements by service v0.1 ivs_ss_artifacts ds data service ppt
+882,demo cei csa ivs_ss_artifacts ds mobility zip
+883,flyer ivs_ss_artifacts ds mobility zip
+884,inits v3.0 demo ivs_ss_artifacts ds mobility zip
+885,iwafrecordeddemo v0.1withvoice ivs_ss_artifacts ds mobility zip
+886,mobile qa flyer ss roadshow jul 17 ivs_ss_artifacts ds mobility doc
+887,mobile qa flyer ss roadshow jul 17 ivs_ss_artifacts ds mobility pdf
+888,mobility test service contact and alliance ivs_ss_artifacts ds mobility ppt
+889,ivs infratesting service offer ivs_ss_artifacts ds infra pdf
+890,ivs tems service offer ivs_ss_artifacts ds infra pdf
+891,ivs security test service offer ivs_ss_artifacts ds security pdf
+892,ifast v2 ivs_ss_artifacts ds soa mp4
+893,digital quality assurance accessibility test ivs_ss_artifacts ds mobility ppt
+894,mobile test automationoffering june 2017 ivs_ss_artifacts ds mobility ppt
+895,mobile cloud offer v5 ivs_ss_artifacts ds mobility ppt
+896,ibm cognos tm1 train material train material train materials bi report train ms bi pdf
+897,ivs mobility go to market solution 2017 v4 ivs_ss_artifacts ds mobility ppt
+898,"mobile security test 14 insurance, bank &amp; financial service ivs_ss_artifacts ds security ppt"
+899,citibank knowledge share session update tool and accelerators idtw perfaware flash demo data service best practice knowledge share sessions ppt
+900,key engagements by mobile test service mobile qa ivs_ss_artifacts ds mobility ppt
+901,europe infosys api test v4 ivs_ss_artifacts ds soa ppt
+902,introduction idtw tool and accelerators idtw perfaware flash demo videos_modulewise_idtw6.0 arf
+903,infosys api test automation ivs_ss_artifacts ds soa pdf
+904,key engagements by service v1.2 ivs_ss_artifacts ds soa ppt
+905,automate etl test case creation tool and accelerators tool and macros zip
+906,cgc fix income business intelligence fibi etl test case study case study by vertical financial service ppt
+907,icedq architecture tool and accelerators doc
+908,idtw demo video tool and accelerators idtw perfaware flash demo videos idtw others wmv
+909,cosmetic hide text or button tool and accelerators idtw perfaware flash demo roadshow doc
+910,faqs idtw etl coe idtw etl coe tool and accelerators idtw perfaware flash demo faq_idtw doc
+911,iedps product demo tool and accelerators idtw perfaware flash demo videos_modulewise_idtw6.0 tdm mp4
+912,tdm dr dg dp tool and accelerators idtw perfaware flash demo videos_modulewise_idtw6.0 tdm wrf
+913,etl market tool comparison 2.0 tool and accelerators idtw perfaware flash demo ppt
+914,etl coe action item list heatmap and accountreviews xls
+915,etl account review report lausd heatmap and accountreviews ppt
+916,etl account review report scedison heatmap and accountreviews ppt
+917,etl account review report charter heatmap and accountreviews ppt
+918,etl account review report schw heatmap and accountreviews ppt
+919,idtw big data requirements q3fy17 tool and accelerators idtw perfaware flash demo idtw release xls
+920,etl account review report bofa heatmap and accountreviews ppt
+921,idtw installation video sql server authentication tool and accelerators idtw perfaware flash demo videos idtw others arf
+922,etl coe heat map q2 fy18 heatmap and accountreviews xls
+923,account review calendar heatmap and accountreviews xls
+924,etl revenue goal heatmap and accountreviews xls
+925,tosca bi train session 20171227 0440 1 train material train materials basic train material(l1 to l2) tosca bi arf
+926,etl account review report suntrust heatmap and accountreviews ppt
+927,idtw installation video windows authentication idtw etlcoe etlcoe tool and accelerators idtw perfaware flash demo videos idtw others arf
+928,etl account review report dtcc heatmap and accountreviews ppt
+929,regression scenarios tool and accelerators idtw perfaware flash demo idtw regression suite etl xls
+930,etl account review report cgc heatmap and accountreviews ppt
+931,etl account review report amex heatmap and accountreviews ppt
+932,2. idtw and cicd tool and accelerators idtw perfaware flash demo idtw poc startup docs ppt
+933,etl market tool comparison 2.0 tool and accelerators idtw perfaware flash demo idtw poc startup docs ppt
+934,four step to start with idtw tool and accelerators idtw perfaware flash demo idtw poc startup docs ppt
+935,idtw licence cost detail tool and accelerators idtw perfaware flash demo idtw poc startup docs for internal purpose only ppt
+936,idtw single slider tool and accelerators idtw perfaware flash demo idtw poc startup docs ppt
+937,4. new feature in idtw6.1 tool and accelerators idtw perfaware flash demo idtw poc startup docs ppt
+938,3. infrastructure requirement for idtw tool and accelerators idtw perfaware flash demo idtw poc startup docs ppt
+939,idtw 6.0 feature nov17 tool and accelerators idtw perfaware flash demo idtw poc startup docs ppt
+940,idtw6 installationsession tool and accelerators idtw perfaware flash demo videos idtw others arf
+941,etl account review report westpac heatmap and accountreviews ppt
+942,etl account review report nab heatmap and accountreviews ppt
+943,etl account review report aetna heatmap and accountreviews ppt
+944,etl account review report bsca heatmap and accountreviews ppt
+945,idtw 6.3 requirements ver 1.1 tool and accelerators idtw perfaware flash demo idtw release release 6.3 1. requirements xls
+946,idtw 6.3 test case bigdata tool and accelerators idtw perfaware flash demo idtw release release 6.3 2. test case xls
+947,etl account review report carefirst heatmap and accountreviews ppt
+948,re issue sample data file comparison defect 683 676 idtw6.3 idtw6.3 idtw6.3 tool and accelerators idtw perfaware flash demo idtw release release 6.3 3. support docs msg
+949,raja re issue sample data file comparison idtw6.3 idtw6.3 idtw6.3 tool and accelerators idtw perfaware flash demo idtw release release 6.3 3. support docs msg
+950,raja re issue sample data file comparison defect 683 676 idtw6.3 idtw6.3 idtw6.3 tool and accelerators idtw perfaware flash demo idtw release release 6.3 3. support docs msg
+951,chiranjibee uatdemo re issue sample data file comparison defect 683 676 idtw6.3 idtw6.3 idtw6.3 tool and accelerators idtw perfaware flash demo idtw release release 6.3 3. support docs msg
+952,etl account review report fidelity heatmap and accountreviews ppt
+953,etl account review report nstrom cvs heatmap and accountreviews ppt
+954,etl account review report jcpenny heatmap and accountreviews ppt
+955,etl account review report wellsfargo heatmap and accountreviews ppt
+956,tool comparison idq vs idtw pov tool and accelerators idtw perfaware flash demo ppt
+957,idtw 6.3 test case tdm infosys tdm tdm tool and accelerators idtw perfaware flash demo idtw release release 6.3 2. test case xls
+958,infosys data test workbench 6.2 tool and accelerators idtw perfaware flash demo idtw poc startup docs ppt
+959,aswa tool and accelerators tool video mp4
+960,bi tester tool and accelerators tool video mp4
+961,exdat demo tool and accelerators tool video mp4
+962,idtw demo video tool and accelerators tool video wmv
+963,iedps product demo tool and accelerators tool video mp4
+964,new infosys big data analytics validation platform v1d8 tool and accelerators tool video wmv
+965,url tool tool and accelerators tool video txt
+966,test report tool and accelerators idtw perfaware flash demo idtw release release 6.3 xls
+967,req35retest uat 11april req35retest_uat_11april req35retest_uat_11april req35retest_uat_11april tool and accelerators idtw perfaware flash demo idtw release release 6.3 3. support docs uat_screenshots doc
+968,req36 retest uat defect678 req36_retest_uat_defect678 req36_retest_uat_defect678 req36_retest_uat_defect678 tool and accelerators idtw perfaware flash demo idtw release release 6.3 3. support docs uat_screenshots doc
+969,req23 retestdefect588 uat req23_retestdefect588_uat req23_retestdefect588_uat req23_retestdefect588_uat tool and accelerators idtw perfaware flash demo idtw release release 6.3 3. support docs uat_screenshots doc
+970,req32 idtw 6.3 uat test result sinish req32_idtw 6.3 uat test result sinish req32_idtw 6.3 uat test result sinish req32_idtw 6.3 uat test result sinish tool and accelerators idtw perfaware flash demo idtw release release 6.3 3. support docs uat_screenshots doc
+971,defect retest req 37 defect_retest_req_37 defect_retest_req_37 defect_retest_req_37 tool and accelerators idtw perfaware flash demo idtw release release 6.3 3. support docs uat_screenshots doc
+972,req30 test result idtw6.3 req30_test result_idtw6.3 req30_test result_idtw6.3 req30_test result_idtw6.3 tool and accelerators idtw perfaware flash demo idtw release release 6.3 3. support docs uat_screenshots xls
+973,req31retest uat 11aprildefect680 681 req31retest_uat_11aprildefect680_681 req31retest_uat_11aprildefect680_681 req31retest_uat_11aprildefect680_681 tool and accelerators idtw perfaware flash demo idtw release release 6.3 3. support docs uat_screenshots doc
+974,copy of icets ivs dtw release plan and dashboard tool and accelerators idtw perfaware flash demo idtw release xls
+975,idtw release project plan tool and accelerators idtw perfaware flash demo idtw release xls
+976,idtw perf benchmark v1.0 tool and accelerators idtw perfaware flash demo idtw poc startup docs for internal purpose only doc
+977,idtw market tool comparison v1.0 tool and accelerators idtw perfaware flash demo idtw poc startup docs xls
+978,idtwmigrationdoc tool and accelerators idtw perfaware flash demo idtw poc startup docs doc
+979,idtw 6.3 test case etl update idtw 6.3 test case - etl idtw 6.3 test case - etl idtw 6.3 test case - etl tool and accelerators idtw perfaware flash demo idtw release release 6.3 2. test case xls
+980,idtw 6.3 req32 test bijay (002) idtw_6.3_req32_testing_bijay (002) idtw_6.3_req32_testing_bijay (002) idtw_6.3_req32_testing_bijay (002) tool and accelerators idtw perfaware flash demo idtw release release 6.3 3. support docs uat_screenshots doc
+981,idtw 6.3 req24 tetsing bijay idtw_6.3_req24_tetsing_bijay idtw_6.3_req24_tetsing_bijay idtw_6.3_req24_tetsing_bijay tool and accelerators idtw perfaware flash demo idtw release release 6.3 3. support docs uat_screenshots doc
+982,req 29 retest701 4may final req 29 retest701_4may_final req 29 retest701_4may_final req 29 retest701_4may_final tool and accelerators idtw perfaware flash demo idtw release release 6.3 3. support docs uat_screenshots doc
+983,req39 bannertesting update req39_bannertesting_updated req39_bannertesting_updated req39_bannertesting_updated tool and accelerators idtw perfaware flash demo idtw release release 6.3 3. support docs uat_screenshots doc
+984,req19 email defect708retest 7may208 eq19_email_defect708retest_7may208 eq19_email_defect708retest_7may208 eq19_email_defect708retest_7may208 tool and accelerators idtw perfaware flash demo idtw release release 6.3 3. support docs uat_screenshots doc
+985,re rel6.3 req19 email configuration defect718 re rel6.3_req19_email configuration_defect718 re rel6.3_req19_email configuration_defect718 re rel6.3_req19_email configuration_defect718 tool and accelerators idtw perfaware flash demo idtw release release 6.3 3. support docs uat_screenshots msg
+986,metadatafile toyota vehicle tool and accelerators idtw perfaware flash demo idtw release release 6.3 3. support docs uat_screenshots thareesh_1m_files_ xls
+987,etlcoe monthly update may tool and accelerators idtw perfaware flash demo etlcoe monthly update doc
+988,etlcoe monthly update may copy tool and accelerators idtw perfaware flash demo etlcoe monthly update doc
+989,etlcoe monthly update may copy (2) tool and accelerators idtw perfaware flash demo etlcoe monthly update doc
+990,etlcoe monthly update may copy (3) tool and accelerators idtw perfaware flash demo etlcoe monthly update doc
+991,etl account review report anthem heatmap and accountreviews ppt
+992,etl account review report mckesson heatmap and accountreviews ppt
+993,idtwmigrationdoc tool and accelerators idtw perfaware flash demo new folder doc
+994,readme tool and accelerators idtw perfaware flash demo new folder txt
+995,setup tool and accelerators idtw perfaware flash demo new folder pdf
+996,3. may june july tool and accelerators idtw perfaware flash demo vasu's monthly connect etlcoe update fy19 doc
+997,2. apr may tool and accelerators idtw perfaware flash demo vasu's monthly connect etlcoe update fy19 doc
+998,1. mar apr tool and accelerators idtw perfaware flash demo vasu's monthly connect etlcoe update fy19 doc
+999,post production defect tool and accelerators idtw perfaware flash demo idtw release xls
+1000,etl coe heat map q4 fy18 ds etl heatmap heatmap and accountreviews xls
+1001,account review calendar q1 fy19 heatmap and accountreviews xls
+1002,4. june july aug tool and accelerators idtw perfaware flash demo vasu's monthly connect etlcoe update fy19 doc
+1003,idtw 6.3 flyer tool and accelerators idtw perfaware flash demo idtw poc startup docs pdf
+1004,infosys dwt capabilities amex 10 feb v10 collateral dw bi test ppt
+1005,idtw 6.4 requirements ver 0.1 tool and accelerators idtw perfaware flash demo idtw release release 6.4 1. requirements xls
+1006,idtw 6.3 test case bigdata tool and accelerators idtw perfaware flash demo idtw release release 6.4 2. test case xls
+1007,idtw 6.4 test case etl idtw 6.4 test case - etl idtw 6.4 test case - etl idtw 6.4 test case - etl tool and accelerators idtw perfaware flash demo idtw release release 6.4 2. test case xls
+1008,test report tool and accelerators idtw perfaware flash demo idtw release release 6.4 xls
+1009,infosys dwt capabilities amex 10 feb v10 collateral ppt
+1010,idtw big data demo tool and accelerators idtw perfaware flash demo videos idtw others wmv
+1011,edition6 cicd gitlab devops in etl know cicd tool emailer jpg
+1012,edition1 cicd teamcity devops in etl know cicd tool emailer jpg
+1013,edition2 cicd bamboo devops in etl know cicd tool emailer jpg
+1014,edition3 cicd udeploy devops in etl know cicd tool emailer jpg
+1015,edition4 cicd octopusdeploy devops in etl know cicd tool emailer jpg
+1016,edition5 cicd travisci devops in etl know cicd tool emailer jpg
+1017,ci use jenkins for etl automation allstate devops in etl case study ppt
+1018,cicd automation use bamboo anthem devops in etl case study ppt
+1019,ci use jenkins for bigdata barclays devops in etl case study ppt
+1020,poc2 cicd jenkins idtw demo devops in etl proof of concept wmv
+1021,poc1 cicd demobox devops in etl proof of concept ppt
+1022,poc1 cicd demobox devops in etl proof of concept wmv
+1023,poc2 cicd jenkins idtw devops in etl proof of concept ppt
+1024,devops in ds test sales kit v0.6 devops in etl collaterals ppt
+1025,devops test service brochure v0.2 devops in etl collaterals pdf
+1026,devops and cicd tutorial devops in etl collaterals ppt
+1027,cicd test plan sample v1.0 devops in etl vital document test plan doc
+1028,devops in etl sitemap devops in etl xls
+1029,casestudy msbi cub validation etl coe open source automation best practice and case study ppt
+1030,python base automation framework for data test open source automation open source tool ppt
+1031,etl automation use fitnesse open source automation open source tool ppt
+1032,cloveretl automation for data test open source automation open source tool ppt
+1033,python base automation utility use ide open source automation open source tool ppt
+1034,best practice os tool etl coe open source automation best practice and case study ppt
+1035,etl os tool mailers open source automation open source tool ppt
+1036,idtw 6th series base pack tool and accelerators idtw perfaware flash demo idtw poc startup docs ppt
+1037,cicd questionnaire v0.2 tool and accelerators idtw perfaware flash demo pride portal update pride portal update xls
+1038,etl test review metrics tool and accelerators idtw perfaware flash demo pride portal update pride portal update ppt
+1039,etl test process maturity level assesment framework tool and accelerators idtw perfaware flash demo pride portal update pride portal update ppt
+1040,etl best practice tool and accelerators idtw perfaware flash demo pride portal update pride portal update best practice xls
+1041,etl tool and accelerators tool and accelerators idtw perfaware flash demo pride portal update pride portal update new tool accelarators frameworks xls
+1042,etl etvx verify tool and accelerators idtw perfaware flash demo pride portal update pride portal update process step in etvx xls
+1043,dwt map template tool and accelerators idtw perfaware flash demo pride portal update pride portal update process step in etvx test execution verify xls
+1044,dwt status report template tool and accelerators idtw perfaware flash demo pride portal update pride portal update process step in etvx test execution verify xlsm
+1045,dwt test closure template tool and accelerators idtw perfaware flash demo pride portal update pride portal update process step in etvx test execution verify doc
+1046,dwt test plan template tool and accelerators idtw perfaware flash demo pride portal update pride portal update process step in etvx test plan verify xls
+1047,dwt review checklist tool and accelerators idtw perfaware flash demo pride portal update pride portal update process step in etvx test strategizing verify xls
+1048,mastertest plantemplate tool and accelerators idtw perfaware flash demo pride portal update pride portal update process step in etvx test strategizing verify doc
+1049,test strategytemplate tool and accelerators idtw perfaware flash demo pride portal update pride portal update process step in etvx test strategizing verify doc
+1050,5. jul aug sep tool and accelerators idtw perfaware flash demo vasu's monthly connect etlcoe update fy19 doc
+1051,idtw 6.4 test case tool and accelerators idtw perfaware flash demo idtw release release 6.4 2. test case xls
+1052,tool comparison idq vs idtw pov tool and accelerators idtw perfaware flash demo idtw poc startup docs ppt
+1053,manual vs idtw tool and accelerators idtw perfaware flash demo idtw poc startup docs pdf
+1054,data test workbench tool and accelerators idtw perfaware flash demo idtw poc startup docs pdf
+1055,data test workbench factsheet tool and accelerators idtw perfaware flash demo idtw poc startup docs pdf
+1056,infosys data test workbench 6.3 tool and accelerators idtw perfaware flash demo idtw poc startup docs ppt
+1057,best practice use node js insurance client open source automation best practice and case study ppt
+1058,etl coe open source automation utlities open source automation open source automation tool etl validations ppt
+1059,os h1 monetization target goals open source automation os and devops tool monetization ppt
+1060,etl test automation open source automation automation test strategy ppt
+1061,etlcoe fortnightly update tool and accelerators idtw perfaware flash demo etlcoe spocs forthnightly update xls
+1062,idtw slide tool and accelerators idtw perfaware flash demo idtw poc startup docs ppt
+1063,1. infosys data test workbench tool and accelerators idtw perfaware flash demo idtw poc startup docs ppt
+1064,6. aug sep oct tool and accelerators idtw perfaware flash demo vasu's monthly connect etlcoe update fy19 doc
+1065,idtw enhancement idtw idtw etlcoe tool and accelerators idtw perfaware flash demo idtw release xls
+1066,etl account review report bsca heatmap and accountreviews sep dec 18 ppt
+1067,etl account review report toyota 0912 heatmap and accountreviews sep dec 18 ppt
+1068,etl account review report bofa sep2018 etlcoe account review heatmap and accountreviews sep dec 18 ppt
+1069,etl account review report cgc jun2018 heatmap and accountreviews ppt
+1070,etl account review report schw june2018 heatmap and accountreviews ppt
+1071,7. sep oct nov tool and accelerators idtw perfaware flash demo vasu's monthly connect etlcoe update fy19 doc
+1072,etl account review report dnb sep2018 dnb bank heatmap and accountreviews sep dec 18 ppt
+1073,amfam idtw casestudy case study idtw 6 case study ppt
+1074,t mobile idw ct presentation v7 case study idtw 6 case study ppt
+1075,case study of data extract from azure platform test use idtw (1) case study idtw 6 case study ppt
+1076,case study of data migration to aws platform test use idtw case study idtw 6 case study ppt
+1077,dtcc idtw case study case study idtw 6 case study ppt
+1078,idtw case study case study idtw 6 case study ppt
+1079,prime idtw implementation story case study idtw 6 case study ppt
+1080,case study automate quality assurance for big data in cloud case study idtw 6 case study doc
+1081,pw querytracker etl coe idtw idtw tool and accelerators idtw perfaware flash demo xls
+1082,etl account review report westpac sep2018 heatmap and accountreviews sep dec 18 ppt
+1083,idtw 6.5 test case 17oct2018 idtw 6.3 test case - etl idtw 6.3 test case - etl idtw 6.3 test case - etl tool and accelerators idtw perfaware flash demo idtw release release 6.5 2.test case xls
+1084,etl account review report suncorp oct2018 etlcoe account review heatmap and accountreviews sep dec 18 ppt
+1085,etl account review report schw 09 24 schw heatmap and accountreviews sep dec 18 ppt
+1086,edition10 cicd solanoci devops in etl know cicd tool emailer jpg
+1087,edition7 cicd circle ci devops in etl know cicd tool emailer jpg
+1088,edition8 cicd buddy devops in etl know cicd tool emailer jpg
+1089,edition9 cicd semaphoreci devops in etl know cicd tool emailer jpg
+1090,test report test report test report test report tool and accelerators idtw perfaware flash demo idtw release release 6.5 xls
+1091,etl account review report visa oct2018 visa heatmap and accountreviews sep dec 18 ppt
+1092,etl account review report nab oct2018 nab etl test account review heatmap and accountreviews sep dec 18 ppt
+1093,idtw 6.5 requirements ver 0.1 idtw etl coe idtw tool and accelerators idtw perfaware flash demo idtw release release 6.5 1.requirements xls
+1094,etl account review report amfam amfam etl test insurance heatmap and accountreviews sep dec 18 ppt
+1095,data vault emerge trend in etl test article account review heatmap and accountreviews sep dec 18 ppt
+1096,idtw mdm offer tool and accelerators idtw perfaware flash demo videos idtw others mp4
+1097,etl account review report cvsp cvsp etl test retail heatmap and accountreviews sep dec 18 ppt
+1098,etl account review report nstrom nstrom etl test retail heatmap and accountreviews sep dec 18 ppt
+1099,etl account review report norwes norwes etl test insurance heatmap and accountreviews sep dec 18 ppt
+1100,8. nov dec tool and accelerators idtw perfaware flash demo vasu's monthly connect etlcoe update fy19 doc
+1101,hall of fame etlcoe tool and accelerators idtw perfaware flash demo hall of fame msg
+1102,hall of fame ankit dewan tool and accelerators idtw perfaware flash demo hall of fame msg
+1103,hall of fame feature data mine excel utility tool and accelerators idtw perfaware flash demo hall of fame msg
+1104,hall of fame feature nab data service team folks tool and accelerators idtw perfaware flash demo hall of fame msg
+1105,hall of fame automate data validation macro tool and accelerators idtw perfaware flash demo hall of fame msg
+1106,hall of fame change request automation tool tool and accelerators idtw perfaware flash demo hall of fame msg
+1107,hall of fame python base framework for data comparison tool and accelerators idtw perfaware flash demo hall of fame msg
+1108,hall of fame data mask tool tool and accelerators idtw perfaware flash demo hall of fame msg
+1109,hall of fame etlcoe tcg tool and accelerators idtw perfaware flash demo hall of fame msg
+1110,real time data warehouse challenge and solution data warehouse heatmap and accountreviews latest etl trend ppt
+1111,bdt latest trend bdt heatmap and accountreviews latest etl trend ppt
+1112,data vault emerge trend in etl test article account review heatmap and accountreviews latest etl trend ppt
+1113,etl account review report apple oct2018 heatmap and accountreviews sep dec 18 ppt
+1114,mdm feature tool and accelerators idtw perfaware flash demo idtw poc startup docs idtw mdm doc
+1115,mdm single slider tool and accelerators idtw perfaware flash demo idtw poc startup docs idtw mdm pdf
+1116,mdm infrastructure requirements tool and accelerators idtw perfaware flash demo idtw poc startup docs idtw mdm pdf
+1117,mdm collaterals tool and accelerators idtw perfaware flash demo idtw poc startup docs idtw mdm pdf
+1118,1. benefit consolidate tool and accelerators idtw perfaware flash demo case study latest doc
+1119,amfam idtw casestudy tool and accelerators idtw perfaware flash demo case study latest ppt
+1120,case study of data extract from azure platform test use idtw (1) tool and accelerators idtw perfaware flash demo case study latest ppt
+1121,case study of data migration to aws platform test use idtw tool and accelerators idtw perfaware flash demo case study latest ppt
+1122,data migration test (itdw) for oc4 (1) tool and accelerators idtw perfaware flash demo case study latest ppt
+1123,dtcc idtw case study tool and accelerators idtw perfaware flash demo case study latest ppt
+1124,prime idtw implementation story tool and accelerators idtw perfaware flash demo case study latest ppt
+1125,t mobile idw ct presentation v7 tool and accelerators idtw perfaware flash demo case study latest ppt
+1126,regressiontesting suite 14dec2018 regressiontesting_suite_5dec2018 regressiontesting_suite_5dec2018 regressiontesting_suite_5dec2018 tool and accelerators idtw perfaware flash demo idtw regression suite etl xls
+1127,demo detail 7dec idtw etl coe etl coe tool and accelerators idtw perfaware flash demo idtw_demos xls
+1128,pre req checklist idtw idtw idtw tool and accelerators idtw perfaware flash demo idtw poc startup docs xls
+1129,etl account review report dtcc dec2018 dtcc heatmap and accountreviews sep dec 18 ppt
+1130,etl competency tracker train material train materials competency tracker xls
+1131,9. jan feb tool and accelerators idtw perfaware flash demo vasu's monthly connect etlcoe update fy19 doc
